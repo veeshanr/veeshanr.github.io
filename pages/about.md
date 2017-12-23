@@ -4,7 +4,7 @@ permalink: /
 title: About Me
 ---
 
-Nishan Rayamajhee
-=================
+Veeshan Rayamajhee
+==================
 
 {{ site.description }}
