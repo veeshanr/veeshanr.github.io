@@ -21,14 +21,9 @@ I am an Adam Smith Fellow at the Mercatus Center (George Mason University) for t
 
 Download my [CV](/files/CV_22Dec17.pdf)
 
-Contact:
-
-Department of Economics
-
-MSC05 3060
-
-1 University of New Mexico
-
-Albuquerque,
-
+Contact:  
+Department of Economics  
+MSC05 3060  
+1 University of New Mexico  
+Albuquerque,  
 New Mexico 87131-0001
