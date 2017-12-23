@@ -17,6 +17,8 @@ h1 {
 }
 img {
     max-width: 320px;
+    display: block;
+    float: left;
 }
 ul {
     padding-left: 2 * $spacing-unit;
