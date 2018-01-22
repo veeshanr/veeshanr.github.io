@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /research
-title: Research
+title: research
 ---
 
 Veeshan Rayamajhee
