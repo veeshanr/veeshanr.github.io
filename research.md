@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Research
+permalink: /research
 title: Research
 ---
 
