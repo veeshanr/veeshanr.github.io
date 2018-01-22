@@ -7,7 +7,7 @@ title: research
 Veeshan Rayamajhee
 ==================
 
-Although primarily trained as an applied micro-economist, my research frequently traverses into the interdisciplinary territory. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
+Although primarily trained as an applied micro-economist, my research frequently traverses into interdisciplinary territories. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
 
 	1. “Do voluntary associations reduce hunger? An empirical exploration of the social 
 	capital- food security nexus among food impoverished households in western Nepal.” 
