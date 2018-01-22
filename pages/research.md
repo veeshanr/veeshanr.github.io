@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: /research
-title: research
+title: Research
 ---
 
-Veeshan Rayamajhee
-==================
+Research
+========
 
 Although primarily trained as an applied micro-economist, my research frequently traverses into the interdisciplinary territory. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
 

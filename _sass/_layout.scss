@@ -1,3 +1,32 @@
+nav ul {
+	padding: 0;
+	list-style: none;
+	display: flex;
+	justify-content: flex-start;
+	li {
+		a {
+			display: block;
+			padding: 10px;
+			margin-right: $spacing-unit;
+			background: $grey-color-ultra-light;
+			border: 2px solid transparent;
+			border-radius: 5px;
+			&:hover, &:focus {
+				outline: none;
+				border-color: $grey-color-light;
+				text-decoration: none;
+			}
+			&:active, &.current {
+				border-color: $brand-color;
+			}
+
+		}
+		&:last-of-type a {
+			margin-right: 0;
+		}
+
+	}
+}
 page-content{
     display: block;
 
@@ -16,6 +45,26 @@ page-content{
         @include on-desktop(){
             width: $desktop - $spacing-unit * 2;
         }
+	content {
+		display: block;
+		max-width: calc(70% - 20px);
+		margin-left: $spacing-unit;
+		float: right;
+	}
+	sidebar {
+		display: block;
+		overflow: auto;
+		clear: left;
+		img {
+			max-width: 100%;
+			display: block;
+		}
+		address {
+			font-family: $screen-font-family;
+			font-style: normal;
+			margin-top: $spacing-unit;
+		}
+	}
     }
 }
 #toggle-theme {
@@ -55,6 +104,13 @@ body.dark-theme {
     wrapper {
         color: $background-color;
         background-color: lighten($text-color, 2%);
+
+	nav ul a {
+		background: $grey-color-dark;
+		&:hover, &:focus {
+			border-color: $grey-color;
+		}
+	}
 
         #toggle-theme {
             background-color: $text-color;

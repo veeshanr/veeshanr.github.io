@@ -8,7 +8,14 @@
       <wrapper>
 	{% include header.html %}
         <button id="toggle-theme" onclick="toggleTheme()"></button>
-        {{ content }}
+	<h1>{{ site.title }}</h1>
+	<content>
+	        {{ content }}
+	</content>
+	<sidebar>
+		{% include contact.html %}
+	</sidebar>
+
       </wrapper>
     </page-content>
     

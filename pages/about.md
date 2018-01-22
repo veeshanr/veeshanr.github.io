@@ -1,13 +1,8 @@
 ---
-layout: default
+layout: two-column
 permalink: /
 title: About Me
 ---
-
-Veeshan Rayamajhee
-==================
-
-![Profile Picture](/img/profile.png)
 
 Trained as an applied microeconomist, my research ventures into a somewhat interdisciplinary territory of the intersection between natural and human systems. I am particularly interested in human responses to natural shocks in vulnerable communities and regions.
 
@@ -18,10 +13,3 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 I am an Adam Smith Fellow at the Mercatus Center (George Mason University) for the 2017-2018 academic year.
 
 Download my [CV](/files/CV_22Jan18.pdf)
-
-Contact:  
-Department of Economics  
-MSC05 3060  
-1 University of New Mexico  
-Albuquerque,  
-New Mexico 87131-0001
