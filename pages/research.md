@@ -8,15 +8,10 @@ Veeshan Rayamajhee
 ==================
 
 Although primarily trained as an applied micro-economist, my research frequently traverses into the interdisciplinary territory. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
--	1. “Do voluntary associations reduce hunger? An empirical exploration of the social 
--	capital- food security nexus among food impoverished households in western Nepal.” 
--	with Alok K. Bohara [Under Review]
--	2. “An Iron Triangle ROI Model for Healthcare.” with D. van der Goes, N. Edwardson
--	[Revise& Resubmit in ClinicoEconomics and Outcomes Research] .
--	3. “How should hydropower plants pay for negative externalities? An economic 
--	analysis of the trade-offs between energy production and crop loss using extern-
--	ality mitigation fund approach.” with Aakrit Joshi [Under Review]
--	
+
+1. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” with Alok K. Bohara [Under Review]
+2. “An Iron Triangle ROI Model for Healthcare.” with D. van der Goes, N. Edwardson [Revise& Resubmit in ClinicoEconomics and Outcomes Research] .
+3. “How should hydropower plants pay for negative externalities? An economic analysis of the trade-offs between energy production and crop loss using externality mitigation fund approach.” with Aakrit Joshi [Under Review]
 
 Papers nearing completion/Working Papers: 
 
