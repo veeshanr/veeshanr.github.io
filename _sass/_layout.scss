@@ -8,7 +8,7 @@ nav ul {
 			display: block;
 			padding: 10px;
 			margin-right: $spacing-unit;
-			background: $grey-color-ultra-light;
+			background: $background-color;
 			border: 2px solid transparent;
 			border-radius: 5px;
 			&:hover, &:focus {
@@ -106,7 +106,7 @@ body.dark-theme {
         background-color: lighten($text-color, 2%);
 
 	nav ul a {
-		background: $grey-color-dark;
+		background: $text-color;
 		&:hover, &:focus {
 			border-color: $grey-color;
 		}
