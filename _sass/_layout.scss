@@ -131,7 +131,9 @@ body.animate {
     wrapper {
         transition-property: background-color;
         transition-duration: $animation-duration;
-
+	    nav li a {
+		    transition: background-color $animation-duration, border-color $animation-duration;
+	    }
         #toggle-theme {
             transition-property: background-color, border-color;
             transition-duration: $animation-duration;
