@@ -12,4 +12,4 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 
 I am an Adam Smith Fellow at the Mercatus Center (George Mason University) for the 2017-2018 academic year.
 
-Download my [CV](/files/CV_22Jan18.pdf)
+Download my <a class="mark" href="/files/CV_22Jan18.pdf">CV!</a>

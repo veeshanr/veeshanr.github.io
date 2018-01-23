@@ -37,6 +37,10 @@ a {
         color: darken($link-color, 10%);
     }
 }
+a.mark {
+	font-family: $fancy-font-family;
+	font-weight: bold;
+}
 body.dark-theme {
     color: $background-color;
     background: $text-color;
