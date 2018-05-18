@@ -11,7 +11,8 @@ Although primarily trained as an applied micro-economist, my research frequently
 
 1. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” with Alok K. Bohara [Under Review]
 2. “An Iron Triangle ROI Model for Healthcare.” with D. van der Goes, N. Edwardson [Revise& Resubmit in ClinicoEconomics and Outcomes Research] .
-3. “How should hydropower plants pay for negative externalities? An economic analysis of the trade-offs between energy production and crop loss using externality mitigation fund approach.” with Aakrit Joshi [Under Review]
+3. “Economic trade-offs between hydroelectricity production and environmental externalities: A case for
+local externality mitigation fund.” with Aakrit Joshi [Revision submitted: Renewable Energy]
 
 Papers nearing completion/Working Papers: 
 
@@ -21,5 +22,5 @@ Papers nearing completion/Working Papers:
 Upcoming Papers:
 
 1. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.”
-3. “Social Capital and its link to Collective Action in a post-disaster setting.”
+3. “Social Capital, Trust, and its link to Collective Action in a post-disaster setting.”
 4. “Social entrepreneurship and disaster resilience: A case study from post earthquake Nepal.”
