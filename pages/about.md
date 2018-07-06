@@ -12,4 +12,4 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 
 I am an Adam Smith Fellow at the Mercatus Center (George Mason University) and Humane Studies Fellow at the Institute of Humane Studies for the 2017/2018 and 2018/2019 academic years respectively.
 
-Download my <a class="mark" href="/files/CV_16May2018.pdf">CV!</a>
+Download my <a class="mark" href="/files/CV.pdf">CV!</a>
