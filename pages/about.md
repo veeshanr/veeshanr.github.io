@@ -1,6 +1,7 @@
 ---
 layout: two-column
 permalink: /
+navbar-index: 0
 title: About Me
 ---
 
