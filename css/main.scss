@@ -1,14 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import 'https://fonts.googleapis.com/css?family=Varela+Round|Pacifico';
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Pacifico|Varela+Round');
 
 @charset "utf-8";
 
 // Variables
 
 $base-font-family: 'Varela Round', sans-serif;
-$screen-font-family: 'Varela Round', sans-serif;
+$screen-font-family: 'Merriweather Sans', sans-serif;
 $fancy-font-family: Pacifico, sans-serif;
 
 $base-font-size:   16px;
