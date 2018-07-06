@@ -10,6 +10,10 @@ My dissertation focuses on the determinants of household resilience against natu
 
 Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Studies (Mathematics and Business management) and an Associate's degree in Philosophy, both from Bryn Athyn College, Pennsylvania. I also hold a Master’s degree in Economics (UNM).
 
-I am an Adam Smith Fellow at the Mercatus Center (George Mason University) and Humane Studies Fellow at the Institute of Humane Studies for the 2017/2018 and 2018/2019 academic years respectively.
+I am also an [Adam Smith Fellow at the Mercatus Center] [1] (George Mason University) and a Humane Studies Fellow at the Institute of Humane Studies.
+
 
 Download my <a class="mark" href="/files/CV.pdf">CV!</a>
+
+
+[1]: https://asp.mercatus.org/people/veeshan-rayamajhee
