@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /research
+navbar-index: 1
 title: Research
 ---
 
