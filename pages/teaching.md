@@ -4,7 +4,7 @@ permalink: /teaching
 title: Teaching
 ---
 
-Research
+Teaching
 ========
 
 I have TA-ed, tutored and/or co-taught the following courses:
