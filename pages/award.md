@@ -11,9 +11,9 @@ Awards/Honors
 
 __Fellowships__
 
--Adam Smith Fellowship (research sequence), Mercatus Center, George Mason University 2018-19
--Humane Studies Fellowship, Institute of Humane Studies 2018-19
--Adam Smith Fellowship, Mercatus Center 2017-18
+- Adam Smith Fellowship (research sequence), Mercatus Center, George Mason University 2018-19
+- Humane Studies Fellowship, Institute of Humane Studies 2018-19
+- Adam Smith Fellowship, Mercatus Center 2017-18
 
 __Grants__
 -Professional Development Grant, GPSA, UNM (received twice) 2017, 2018
