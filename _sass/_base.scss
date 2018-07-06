@@ -14,12 +14,16 @@ h1, p, ul {
 p {
 	margin-top: 0;
 }
+h1, h2 {
+    font-weight: 300;	
+}
 h1 {
-    font-family: $screen-font-family;
-    font-weight: 300;
     font-size: 2em;
 }
-nav {
+h2 {
+    font-size: 1.5em;
+}
+h1, h2, nav {
     font-family: $screen-font-family;
 }
 ul {
