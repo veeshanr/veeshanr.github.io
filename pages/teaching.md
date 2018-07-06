@@ -10,7 +10,7 @@ Teaching
 
 I have TA-ed, tutored and/or co-taught the following courses:
 
-University of New Mexico:
+**University of New Mexico**:
 
 1. TA: Intermediate Microeconomics (Econ300) -Spring-2015, Spring-2018
 2. TA: Health Economics, Politics, and Policy (HMHV301) -Fall 2016
@@ -19,6 +19,6 @@ University of New Mexico:
 5. TA: Ecological Economics (Econ342) -Fall 2014
 6. TA/co-taught: Health Economics (Econ335) -Fall 2014
 
-Bryn Athyn College:
+**Bryn Athyn College**:
 
 7. Math-lab coordinator and tutor: Quantitative Reasoning (Mathematics, Statistics, and QR courses)-2013-2014
