@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Awards
+permalink: /awards
 navbar-index: 3
 title: Awards/Honors
 ---
@@ -8,18 +8,16 @@ title: Awards/Honors
 Awards/Honors
 ========
 
-## Fellowships
+Fellowships
+-----------
 
 - Adam Smith Fellowship (research sequence), Mercatus Center, George Mason University 2018-19
 - Humane Studies Fellowship, Institute of Humane Studies 2018-19
 - Adam Smith Fellowship, Mercatus Center 2017-18
 
-<<<<<<< HEAD
-## Grants
+Grants
+------
 
-=======
-__Grants__
->>>>>>> 219dd66752bc01436d0127c95d416ae0555fa121
 - Professional Development Grant, GPSA, UNM (received twice) 2017, 2018
 - Charles K. Foundation Dissertation Research Grant 2018-19
 - Institute of Humane Studies Conference Travel Grant 2018
@@ -28,11 +26,11 @@ __Grants__
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
 - Economics Graduate Students Organization Award, UNM 2016-17
 - German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer
-<<<<<<< HEAD
 - Course Grant 2011
 
 
-## Honors/Awards
+Honors/Awards
+-------------
 
 - Alfred L. Parker PhD Endowed Scholarship in Economics, Department of Economics, UNM 2018-19
 - J. Raymond Stuart Award in Economics, Department of Economics, UNM 2017-18
@@ -40,20 +38,6 @@ __Grants__
 - Received an invitation to be considered for the valedictorian selection ballot, BAC 2014
 - The Nobre Scholarship in Mathematics and Computer Science, BAC 2013/14
 - Finalist, Cumberland Valley Math Modeling Challenge (CVMMC), Shippensburg University 2013
-=======
-Course Grant 2011
-
-
-__Honors/Awards__
-- Alfred L. Parker PhD Endowed Scholarship in Economics, Department of Economics, UNM 2018-19
-- J. Raymond Stuart Award in Economics, Department of Economics, UNM 2017-18
-- Son of the Academy (Academic Award for “the highest level of scholarship, contribution
-to the intellectual life, and affirmation of the college’s distinctive purpose”), BAC 2013-14
-- Received an invitation to be considered for the valedictorian selection ballot, BAC 2014
-- The Nobre Scholarship in Mathematics and Computer Science, BAC 2013/14
-- Finalist, Cumberland Valley Math Modeling Challenge (CVMMC), Shippensburg
-University 2013
->>>>>>> 219dd66752bc01436d0127c95d416ae0555fa121
 - Service Trip Award, BAC 2012
 - Dean’s List (9 consecutive terms), BAC 2010-2013
 - Presidential Award for Excellence: full ride scholarship, BAC
