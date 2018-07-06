@@ -1,6 +1,6 @@
 <nav>
 	<ul>
-        {% for nav in (site.pages | sort: 'title') %}
+        {% for nav in (site.pages | sort: 'navbar-index') %}
 	{% if nav.title and nav.title != 'Oops!' %}
 	{% if page.url == nav.url %}
           <li><a class="current" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a></li>
