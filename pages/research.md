@@ -10,10 +10,16 @@ Research
 Although primarily trained as an applied micro-economist, my research frequently traverses into the interdisciplinary territory. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
 
 1. [Rayamajhee V, Joshi A, Economic trade-offs between hydroelectricity production and environmental
-externalities: A case for local externality mitigation fund, Renewable Energy (2018)] (https://doi.org/10.1016/j.renene.2018.06.009)
+externalities: A case for local externality mitigation fund, Renewable Energy (2018)] [1]
+.
+.
+.
+[1]: https://doi.org/10.1016/j.renene.2018.06.009
 
 
-https://doi.org/10.1016/j.renene.2018.06.009
+[Link][1]
+⋮
+[1]: http://b.org
 
 [Link](http://a.com)
 
