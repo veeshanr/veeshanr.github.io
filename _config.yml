@@ -5,5 +5,7 @@ description: >
 url: "http://veeshan.rayamajhee.com"
 username: vrayamajhee
 
+#google-analytics: UA-XXXXXXXXX-X
+
 # Build settings
 markdown: kramdown
