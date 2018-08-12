@@ -17,13 +17,17 @@ Although primarily trained as an applied micro-economist, my research frequently
 
 Papers nearing completion/Working Papers: 
 
-1. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.”
-2. “Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.”
+1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (Draft available)
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Preliminary draft available)
 
 Upcoming Papers:
 
-1. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.”
-3. “Social Capital, Trust, and its link to Collective Action in a post-disaster setting.”
-4. “Social entrepreneurship and disaster resilience: A case study from post earthquake Nepal.”
+1. *“Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.”
+2. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
+3. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
+4. “Social entrepreneurship and psycho-social resilience after natural disasters: The Dhurmus Suntali Project.”
+5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.”
+
+Note: * indicates dissertation chapters.
 
 [1]: https://doi.org/10.1016/j.renene.2018.06.009
