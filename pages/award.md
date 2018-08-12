@@ -18,9 +18,9 @@ Fellowships
 Grants
 ------
 
-- Professional Development Grant, GPSA, UNM (received twice) 2017, 2018
+- Professional Development Grant, GPSA, UNM (received three times) 2017, 2018 (2)
+- Hayek Fund for Scholars, Institute of Humane Studies 2018
 - Charles K. Foundation Dissertation Research Grant 2018-19
-- Institute of Humane Studies Conference Travel Grant 2018
 - Rogers Research/Project Award, Office of Graduate Studies, UNM 2017-18
 - Student Research Grant, GPSA, UNM (received twice) 2017, 2018
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
