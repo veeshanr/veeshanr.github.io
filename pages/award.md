@@ -25,8 +25,7 @@ Grants
 - Student Research Grant, GPSA, UNM (received twice) 2017, 2018
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
 - Economics Graduate Students Organization Award, UNM 2016-17
-- German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer
-- Course Grant 2011
+- German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer Course Grant 2011
 
 
 Honors/Awards
