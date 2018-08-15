@@ -14,6 +14,7 @@ Although primarily trained as an applied micro-economist, my research frequently
 2. van der Goes, D., Edwardson, N., Rayamajhee, V., Hollis,C.,& Hunter, D. (2018). An Iron Triangle ROI Model for Healthcare. ClinicoEconomics and Outcomes Research. (in press)
 
 Under Review
+
 3.“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal.” (with Alok K. Bohara) [Under Review]
 4. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” with Alok K. Bohara [Under Review]
 
