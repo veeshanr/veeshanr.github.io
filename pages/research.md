@@ -16,7 +16,6 @@ Although primarily trained as an applied micro-economist, my research frequently
 Under Review:
 
 3. “Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal.” (with Alok K. Bohara)
-
 4. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” (with Alok K. Bohara)
 
 Papers nearing completion/Working Papers: 
