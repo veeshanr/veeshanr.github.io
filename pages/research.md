@@ -13,11 +13,11 @@ Although primarily trained as an applied micro-economist, my research frequently
 1. [Rayamajhee, V., & Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund. Renewable Energy,129(A),237-244.] [1]
 2. van der Goes, D., Edwardson, N., Rayamajhee, V., Hollis,C.,& Hunter, D. (2018). An Iron Triangle ROI Model for Healthcare. ClinicoEconomics and Outcomes Research. (in press)
 
-Under Review
+Under Review:
 
-3.“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal.” (with Alok K. Bohara) [Under Review]
+3. “Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal.” (with Alok K. Bohara)
 
-4. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” with Alok K. Bohara [Under Review]
+4. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” (with Alok K. Bohara)
 
 Papers nearing completion/Working Papers: 
 
