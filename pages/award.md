@@ -23,7 +23,7 @@ Grants
 - Hayek Fund for Scholars, Institute of Humane Studies 2018
 - Charles K. Foundation Dissertation Research Grant 2018-19
 - Rogers Research/Project Award, Office of Graduate Studies, UNM 2017-18
-- Student Research Grant, GPSA, UNM (received twice) 2017, 2018
+- Student Research Grant, GPSA, UNM (received three times) 2017, 2018 (2)
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
 - Economics Graduate Students Organization Award, UNM 2016-17
 - German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer Course Grant 2011
