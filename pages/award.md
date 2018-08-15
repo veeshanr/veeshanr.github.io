@@ -18,6 +18,7 @@ Fellowships
 Grants
 ------
 
+- CGO Research Award, Utah State University (incl. RA support, honoraria, etc.) 2018
 - Professional Development Grant, GPSA, UNM (received three times) 2017, 2018 (2)
 - Hayek Fund for Scholars, Institute of Humane Studies 2018
 - Charles K. Foundation Dissertation Research Grant 2018-19
