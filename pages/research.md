@@ -11,11 +11,10 @@ Research
 Although primarily trained as an applied micro-economist, my research frequently traverses into interdisciplinary territories. My core research interests lie in the environmental and developmental issues facing vulnerable populations. Below is a preview of my past and current research:
 
 1. [Rayamajhee, V., & Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund. Renewable Energy,129(A),237-244.] [1]
-2. van der Goes, D., Edwardson, N., Rayamajhee, V., Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. ClinicoEconomics and Outcomes Research.
+2. Rayamajhee, V., & Bohara, A. (forthcoming).Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal. Journal of International Development.
+3. van der Goes, D., Edwardson, N., Rayamajhee, V., Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. ClinicoEconomics and Outcomes Research.
 
 Under Review:
-
-3. “Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal.” (with Alok K. Bohara)-Revision submitted
 4. “Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal.” (with Alok K. Bohara)
 
 Papers nearing completion/Working Papers: 
