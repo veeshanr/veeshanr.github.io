@@ -20,7 +20,7 @@ Under Review:
 Papers nearing completion/Working Papers: 
 
 1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (Draft available)
-2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Preliminary draft available)
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Draft available)
 
 Upcoming Papers:
 
