@@ -21,9 +21,10 @@ Grants
 - CGO Research Award, Utah State University (incl. RA support, honoraria, etc.) 2018
 - Professional Development Grant, GPSA, UNM (received three times) 2017, 2018 (2)
 - Hayek Fund for Scholars, Institute of Humane Studies (received twice) 2018
+- Doctoral Conference Presentation Award, Office of Graduate Studies, UNM 2018
 - Mercatus Travel Fund 2018
 - Charles K. Foundation Dissertation Research Grant 2018-19
-- Rogers Research/Project Award, Office of Graduate Studies, UNM 2017-18
+- Rogers Research/Project Award, OGS, UNM 2017-18
 - Student Research Grant, GPSA, UNM (received three times) 2017, 2018 (2)
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
 - Economics Graduate Students Organization Award, UNM (received twice) 2016-17, 2018
