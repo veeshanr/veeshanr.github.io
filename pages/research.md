@@ -19,8 +19,8 @@ Peer-reviewed research articles:
 
 Papers in submission/Working Papers: 
 
-1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (Draft available)
-2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Draft available)
+1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (Submitted: Oct 6, 2018)
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (In submission)
 
 In preparation:
 
@@ -33,6 +33,7 @@ Upcoming work:
 1. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
 2. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
 3. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.”
+4. “Resilience Thinking in development economics: A clash of traditions.”
 
 
 Note: * indicates dissertation chapters.
