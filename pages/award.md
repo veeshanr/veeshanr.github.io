@@ -33,8 +33,7 @@ Grants
 
 Honors/Awards
 -------------
-- Don Lavoie Memorial Graduate Student Essay Award (Society for the Development of Austrian Eco-
-nomics) to be awarded at the Southern Economic Association Meeting in Washington DC, 2018
+- Don Lavoie Memorial Graduate Student Essay Award (SDAE) to be awarded at the Southern Economic Association Meeting in Washington DC, 2018
 - Alfred L. Parker PhD Endowed Scholarship in Economics, Department of Economics, UNM 2018-19
 - J. Raymond Stuart Award in Economics, Department of Economics, UNM 2017-18
 - Son of the Academy (Academic Award for “the highest level of scholarship, contribution to the intellectual life, and affirmation of the college’s distinctive purpose”), BAC 2013-14
