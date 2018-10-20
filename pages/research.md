@@ -14,8 +14,8 @@ Although formally trained as an environmental and development economist, my rese
 
 1. **Rayamajhee, V.**, & Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund. *Renewable Energy,129(A)*,237-244. [[Link]] [1]
 2. **Rayamajhee, V.**, & Bohara, A. (forthcoming). Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal. *Journal of International Development*.
-3. **Rayamajhee, V**., & Bohara, A. (forthcoming).Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal. *Food Security*. <a href="/Paper3.pdf">[Link to Preprint]</a>
-4. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. *ClinicoEconomics and Outcomes Research*. <a href="/Paper4.pdf">[Link to Preprint]</a>
+3. **Rayamajhee, V**., & Bohara, A. (forthcoming).Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal. *Food Security*. [[Link to Preprint]][2]
+4. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. *ClinicoEconomics and Outcomes Research*. [[Link to Preprint]][3]
 
 **Papers in submission/Working Papers:**
 
@@ -39,3 +39,5 @@ Although formally trained as an environmental and development economist, my rese
 Note: * indicates dissertation chapters.
 
 [1]: https://doi.org/10.1016/j.renene.2018.06.009
+[2]: /Paper3.pdf
+[3]: /Paper4.pdf
