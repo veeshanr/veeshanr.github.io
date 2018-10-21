@@ -9,16 +9,18 @@
 	{% include header.html %}
         <button id="toggle-theme" onclick="toggleTheme()"></button>
 	<h1>{{ site.title }}</h1>
-	<content>
+  <img src="/img/profile.jpg" alt="Profile Picture">
+	<content class="float">
 	        {{ content }}
 	</content>
 	<sidebar>
 		{% include contact.html %}
 	</sidebar>
 
+      <bg-screen onclick="toggleMenu()"></bg-screen>
+      {% include footer.html %}
       </wrapper>
     </page-content>
-    
   </body>
 
 </html>

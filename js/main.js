@@ -29,6 +29,19 @@ function toggleTheme()
         setDarkTheme()
 }
 
+function toggleMenu() {
+    let ul = document.querySelector('nav');
+    let wrap = document.querySelector('page-content wrapper');
+    console.log(ul);
+    if(ul.classList.contains("shown")){
+        ul.classList.remove("shown");
+        wrap.classList.remove("blur");
+    } else {
+        ul.classList.add("shown");
+        wrap.classList.add("blur");
+    }
+}
+
 function setLightTheme() {
     document.body.classList.remove("dark-theme");
     myLocalStorage.removeItem("Theme");

@@ -1,8 +1,9 @@
+<header>
 <nav>
 	<ul>
 	{% assign navbar-elements = (site.pages | sort: 'navbar-index')%}
         {% for nav in navbar-elements %}
-	{% if nav.title and nav.title != 'Oops!' %}
+	{% if nav.navbar-index %}
 	{% if page.url == nav.url %}
           <li><a class="current" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a></li>
 	{% else %}
@@ -11,4 +12,10 @@
 	{% endif %}
         {% endfor %}
 	</ul>
+	<pancake onclick="toggleMenu()">
+		<bar></bar>
+		<bar></bar>
+		<bar></bar>
+	</pancake>
 </nav>
+</header>

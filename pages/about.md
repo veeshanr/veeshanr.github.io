@@ -12,7 +12,7 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 The Nepalese in me finds solace in mountains and wilderness. I enjoy backpacking in the American Southwest. When ABQ temperature falls below 90, I love hiking in the Sandias, and running around Nobhill. 
 
 
-Here is a link to my <a class="mark" href="/CV.pdf">CV!</a>
+Here is a link to my <a class="mark" href="files/CV.pdf">CV!</a>
 
 
 [1]: https://asp.mercatus.org/people/veeshan-rayamajhee

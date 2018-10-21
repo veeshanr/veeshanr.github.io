@@ -1,32 +1,98 @@
-nav ul {
-	padding: 0;
-	list-style: none;
-	display: flex;
-	justify-content: flex-start;
-	li {
-		margin: 0;
-		a {
-			display: block;
-			padding: 10px;
-			margin-right: $spacing-unit;
-			background: $background-color;
-			border: 2px solid transparent;
-			border-radius: 5px;
-			&:hover, &:focus {
-				outline: none;
-				border-color: $grey-color-light;
-				text-decoration: none;
-			}
-			&:active, &.current {
-				border-color: $brand-color;
-			}
+nav {
+    margin: $spacing-unit 0;
 
-		}
-		&:last-of-type a {
-			margin-right: 0;
-		}
+    ul {
+        padding: 0;
+        list-style: none;
+        display: flex;
+        justify-content: flex-start;
 
-	}
+        @include on-tablet{
+            display: none;
+            position: fixed;
+            margin: 0;
+            top: 96px;
+            left: 20%;
+            width: 60%;
+            box-sizing: border-box;
+            padding: 0 $spacing-unit; 
+        }
+        @include on-mobile {
+            top: 86px;
+            left: 10%;
+            width: 80%;
+        }
+        li {
+            margin: 0;
+            a {
+                display: block;
+                padding: 10px;
+                margin-right: $spacing-unit;
+                background: $background-color;
+                border: 2px solid transparent;
+                border-radius: 5px;
+                &:hover, &:focus {
+                    outline: none;
+                    border-color: $grey-color-light;
+                    text-decoration: none;
+                }
+                &:active, &.current {
+                    border-color: $brand-color;
+                }
+                @include on-tablet {
+                    margin-right: 0;
+                    margin-bottom: $spacing-unit;
+                }
+
+            }
+            &:last-of-type a {
+                margin-right: 0;
+            }
+
+        }
+    }
+    pancake {
+        display: none;
+        cursor: pointer;
+        width: 40px;
+        height: 25px;
+        bar {
+            display: block;
+            background: $brand-color;
+            width: 40px;
+            height: 3px;
+            margin-bottom: 8px;
+            border-radius: 3px;
+            transition: margin 0.2s, transform 0.4s, opacity 0.2s;
+        }
+        @include on-tablet {
+            display: inline-block;
+        }
+    }
+    @include on-tablet {
+        position: fixed;
+        z-index: 2;
+        margin-top: $spacing-unit + ($base-line-height * $base-font-size / 2);
+        &.shown{
+            ul {
+                display: block;
+            }
+            pancake {
+                bar {
+                    margin: 0;
+                    &:nth-child(1) {
+                        transform: translateY(10px) rotate(45deg);
+                    }
+                    &:nth-child(3) {
+                        transform: translateY(5px) rotate(-45deg);
+                    }
+                    &:nth-child(2)  {
+                        opacity: 0;
+                    }
+                }
+            }
+        }
+    }
 }
 page-content{
     display: block;
@@ -34,44 +100,99 @@ page-content{
     wrapper {
         display: block;
         position: relative;
-        min-height: calc(100vh - 5px);
         overflow: auto;
-
         border-top: 5px solid $brand-color;
         background: lighten($background-color, 2%);
 
         margin: 0 auto;
         padding: 0 $spacing-unit;
+        padding-bottom: 3 * $spacing-unit + $base-line-height * 0.8 * $base-font-size;
+        min-height: calc(100vh - 84.2px);
 
         @include on-desktop(){
             width: $desktop - $spacing-unit * 2;
         }
-	content {
-		display: block;
-		max-width: calc(70% - 20px);
-		margin-left: $spacing-unit;
-		float: right;
-	}
-	sidebar {
-		display: block;
-		overflow: auto;
-		clear: left;
-		img {
-			max-width: 100%;
-			display: block;
-			border-radius: 5px;
-		}
-		address {
-			font-style: normal;
-			margin-top: $spacing-unit;
-		}
-	}
+        content {
+            display: block;
+        }
+        content.float {
+            max-width: calc(70% - 20px);
+            margin-left: $spacing-unit;
+            float: right;
+            @include on-mobile {
+                float: none;
+                max-width: 100%;
+                margin-left: 0;
+            }
+        }
+        img {
+            max-width:30%;
+            float: left;
+            display: block;
+            border-radius: 5px;
+            margin-bottom: $spacing-unit;
+            @include on-mobile {
+                max-width: 100%;
+            }
+        }
+        sidebar {
+            display: block;
+            overflow: auto;
+            clear: left;
+            address {
+                font-style: normal;
+                margin-bottom: $spacing-unit;
+            }
+        }
+        bg-screen {
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: none;
+            background: rgba(0,0,0,0.5);
+        }
+        &.blur {
+          bg-screen {
+              display: block;
+          }  
+          img, content, sidebar, h1 {
+              filter: blur(2px);
+          }
+        }
+        footer {
+            clear: right;
+            padding: $spacing-unit;
+            box-sizing: border-box;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: $background-color;
+            transition: background-color 0.4s;
+            opacity: 0.7;
+            font-size: 0.8em;
+            p {
+                margin-bottom: 0;
+                span {
+                    float: right;
+                }
+            }
+        }
+    }
+}
+@include on-tablet{
+    h1 {
+        margin-left: $spacing-unit + 40px;
+        margin-right: $spacing-unit;
     }
 }
 #toggle-theme {
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: $spacing-unit;
+    right: $spacing-unit;
 
     width: 0;
     height: 0;
@@ -106,24 +227,27 @@ body.dark-theme {
         color: $background-color;
         background-color: lighten($text-color, 2%);
 
-	nav ul a {
-		background: $text-color;
-		&:hover, &:focus {
-			border-color: $grey-color;
-		}
-	}
+        nav ul a {
+            background: $text-color;
+            &:hover, &:focus {
+                border-color: $grey-color;
+            }
+        }
 
         #toggle-theme {
             background-color: $text-color;
             border-color: darken($text-color, 2%);
 
             &::before {
-              background-color: lighten($brand-color, 15%);
-              top: 9px;
+                background-color: lighten($brand-color, 15%);
+                top: 9px;
             }
             &:focus {
-              border-color: $brand-color;
+                border-color: $brand-color;
             }
+        }
+        footer {
+            background-color: $text-color;
         }
     }
 }

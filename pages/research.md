@@ -39,5 +39,5 @@ Although formally trained as an environmental and development economist, my rese
 Note: * indicates dissertation chapters.
 
 [1]: https://doi.org/10.1016/j.renene.2018.06.009
-[2]: /Paper3.pdf
-[3]: /Paper4.pdf
+[2]: files/Paper3.pdf
+[3]: files/Paper4.pdf

@@ -6,12 +6,15 @@
   <body>
     <page-content>
       <wrapper>
-	{% include header.html %}
+      {% include header.html %}
         <button id="toggle-theme" onclick="toggleTheme()"></button>
-        {{ content }}
+        <content>
+          {{ content }}
+        </content>
+      <bg-screen onclick="toggleMenu()"></bg-screen>
+    {% include footer.html %}
       </wrapper>
     </page-content>
-    
   </body>
 
 </html>
