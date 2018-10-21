@@ -6,11 +6,13 @@ let skipAnimation = 400;
 // Local storage for storing theme preference
 let myLocalStorage = localStorage;
 
-let ul = document.querySelector('nav');
-let wrap = document.querySelector('page-content wrapper');
+let ul;
+let wrap;
 
 function init() {
-    rL = myLocalStorage.getItem("Theme");
+    ur = document.querySelector('nav');
+    wrap = document.querySelector('page-content wrapper');
+    let rL = myLocalStorage.getItem("Theme");
     console.log(rL);
     
     // If there's any value in local storage "Theme"
