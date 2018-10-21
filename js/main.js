@@ -1,10 +1,13 @@
 // "Moles hate bright colours!" was ripped off from libsdl's homepage. Sorry about that!
 
 // Delay inorder to prevent css animation from light to dark theme while loading the website
-var skipAnimation = 400;
+let skipAnimation = 400;
 
 // Local storage for storing theme preference
-var myLocalStorage = localStorage;
+let myLocalStorage = localStorage;
+
+let ul = document.querySelector('nav');
+let wrap = document.querySelector('page-content wrapper');
 
 function init() {
     rL = myLocalStorage.getItem("Theme");
@@ -30,9 +33,6 @@ function toggleTheme()
 }
 
 function toggleMenu() {
-    let ul = document.querySelector('nav');
-    let wrap = document.querySelector('page-content wrapper');
-    console.log(ul);
     if(ul.classList.contains("shown")){
         ul.classList.remove("shown");
         wrap.classList.remove("blur");
