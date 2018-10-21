@@ -10,7 +10,7 @@ let ul;
 let wrap;
 
 function init() {
-    ur = document.querySelector('nav');
+    ul = document.querySelector('nav');
     wrap = document.querySelector('page-content wrapper');
     let rL = myLocalStorage.getItem("Theme");
     console.log(rL);
