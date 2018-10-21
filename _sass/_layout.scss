@@ -126,13 +126,16 @@ page-content{
             }
         }
         img {
-            max-width:30%;
+            max-width: 30%;
             float: left;
             display: block;
             border-radius: 5px;
             margin-bottom: $spacing-unit;
             @include on-mobile {
-                max-width: 100%;
+                margin-left: 20%;
+                border-radius: 50%;
+                max-width: 60%;
+                float: none;
             }
         }
         sidebar {
@@ -153,6 +156,9 @@ page-content{
             height: 100%;
             display: none;
             background: rgba(0,0,0,0.5);
+        }
+        img, content, sidebar, h1, footer {
+            transition: filter 0.4s;
         }
         &.blur {
           bg-screen {
