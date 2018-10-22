@@ -19,7 +19,7 @@ Although formally trained as an environmental and development economist, my rese
 
 **Papers in submission/Working Papers:**
 
-1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (In submission)
+1. *“Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (Submitted to Journal)
 2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (In submission)
 
 **In preparation:**
@@ -39,5 +39,6 @@ Although formally trained as an environmental and development economist, my rese
 Note: * indicates dissertation chapters.
 
 [1]: https://doi.org/10.1016/j.renene.2018.06.009
-[2]: files/Paper3.pdf
-[3]: files/Paper4.pdf
+[2]: /files/Paper3.pdf
+[3]: /files/Paper4.pdf
+
