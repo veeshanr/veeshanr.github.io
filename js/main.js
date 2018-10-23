@@ -26,6 +26,8 @@ function init() {
     // If there's any value in local storage "Theme-Dark"
     if (darkTheme!=null && darkTheme.length > 1 )
         setDarkTheme();
+    else
+        setLightTheme();
     
     // Delay before adding class "animate" to body
     setTimeout(function() {
