@@ -8,15 +8,25 @@ let myLocalStorage = localStorage;
 
 let ul;
 let wrap;
+let auto;
 
 function init() {
     ul = document.querySelector('nav');
     wrap = document.querySelector('page-content wrapper');
-    let rL = myLocalStorage.getItem("Theme");
-    console.log(rL);
+    auto = document.querySelector('#auto-theme');
+    let darkTheme = myLocalStorage.getItem("Theme-Dark");
+    let manualTheme = myLocalStorage.getItem("Theme-Manual");
+
+    console.log(manualTheme + ' and ' + darkTheme);
     
-    // If there's any value in local storage "Theme"
-    if(rL!=null && rL.length > 1 )
+    // If there's any value in local storage "Theme-Manual"
+    if (manualTheme!=null && manualTheme.length > 1 )
+        auto.innerHTML = 'M';
+    else
+        autoTheme();
+
+    // If there's any value in local storage "Theme-Dark"
+    if (darkTheme!=null && darkTheme.length > 1 )
         setDarkTheme();
     
     // Delay before adding class "animate" to body
@@ -46,12 +56,31 @@ function toggleMenu() {
 
 function setLightTheme() {
     document.body.classList.remove("dark-theme");
-    myLocalStorage.removeItem("Theme");
+    myLocalStorage.removeItem("Theme-Dark");
+}
+
+function autoTheme() {
+    // console.log("Automatically set ")
+    let hours = (new Date()).getHours();
+    if (hours > 7 && hours < 21) {
+        setLightTheme();
+    } else  {
+        setDarkTheme();
+    }
+    if(auto.classList.contains("activated")) {
+        auto.classList.remove("activated");
+        auto.innerHTML = 'M';
+        myLocalStorage.setItem("Theme-Manual", "Doesn't like automatic!");
+    } else {
+        auto.classList.add("activated");
+        auto.innerHTML = 'A';
+        myLocalStorage.removeItem("Theme-Manual");
+    }
 }
 
 function setDarkTheme() {
     document.body.classList.add("dark-theme");
-    myLocalStorage.setItem("Theme", "Moles hate bright colours!");
+    myLocalStorage.setItem("Theme-Dark", "Hates bright colours!");
 }
 
 window.onload = init;
