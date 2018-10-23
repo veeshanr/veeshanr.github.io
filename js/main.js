@@ -20,9 +20,7 @@ function init() {
     console.log(manualTheme + ' and ' + darkTheme);
     
     // If there's any value in local storage "Theme-Manual"
-    if (manualTheme!=null && manualTheme.length > 1 )
-        auto.innerHTML = 'M';
-    else
+    if(manualTheme == null)
         autoTheme();
 
     // If there's any value in local storage "Theme-Dark"
@@ -69,11 +67,9 @@ function autoTheme() {
     }
     if(auto.classList.contains("activated")) {
         auto.classList.remove("activated");
-        auto.innerHTML = 'M';
         myLocalStorage.setItem("Theme-Manual", "Doesn't like automatic!");
     } else {
         auto.classList.add("activated");
-        auto.innerHTML = 'A';
         myLocalStorage.removeItem("Theme-Manual");
     }
 }

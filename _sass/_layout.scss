@@ -177,9 +177,15 @@ body {
                 bottom: 0;
                 left: 0;
                 width: 100%;
-                background: $background-color;
-                transition: background-color 0.4s;
                 opacity: 0.7;
+                hr {
+                    margin: 0 0 $spacing-unit 0;
+                    border: 1px solid transparent;
+                    border-left: 0;
+                    border-right: 0;
+                    border-top-color: darken($background-color, 5%);
+                    border-bottom-color: white;
+                }
                 font-size: 0.8em;
                 p {
                     margin-bottom: 0;
@@ -191,9 +197,8 @@ body {
             toggle-theme {
                 display: block;
                 position: absolute;
-                top: $spacing-unit;
+                top: $spacing-unit + ($base-line-height * $base-font-size / 2);
                 right: $spacing-unit;
-                // background: red;
 
                 button {
                     display: block;
@@ -233,15 +238,24 @@ body {
                     }
                 }
                 #auto-theme {
-                    margin-top: 4px;
+                    position: relative;
+                    margin-bottom: 10px;
                     background-color: darken($background-color, 10%);
                     font: $base-font-size/$base-line-height $base-font-family;
-                    color: $background-color;
+                    &:before {
+                        position: absolute;
+                        content: '';
+                        border-radius: 50%;
+                        width: 15px;
+                        height: 15px;
+                        top: -5px;
+                        left: 7px;
+                        background: lighten($background-color, 2%);
+                    }
                     &:hover {
                         background: darken($background-color, 20%);
                     }
                     &.activated {
-                        color: lighten($brand-color, 40%);
                         background: lighten($brand-color, 5%);
                     }
                 }
@@ -275,6 +289,9 @@ body.dark-theme {
             #auto-theme{
                 background-color: lighten($text-color, 10%);
                 color: $text-color;
+                &:before {
+                    background-color: lighten($text-color, 2%);
+                }
                 &:hover {
                     background-color: lighten($text-color, 20%);
                 }
@@ -285,7 +302,10 @@ body.dark-theme {
             }
         }
         footer {
-            background-color: $text-color;
+            hr {
+                border-top-color: darken($text-color, 5%);
+                border-bottom-color: lighten($text-color, 10%);
+            }
         }
     }
 }
@@ -307,7 +327,15 @@ body.animate {
             }
         }
         #auto-theme {
-            transition-property: background-color, color;
+            transition-property: background-color;
+            transition-duration: $animation-duration;
+            &:before {
+                transition-property: background-color;
+                transition-duration: $animation-duration;
+            }
+        }
+        footer hr {
+            transition-property: border-color;
             transition-duration: $animation-duration;
         }
     }
