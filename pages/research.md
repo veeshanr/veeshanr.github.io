@@ -25,14 +25,14 @@ Although formally trained as an environmental and development economist, my rese
 **In preparation:**
 
 1. *“Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
-2. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (Data analysis completed)
+2. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (Data analysis completed; with Khatiwada, Bohara, Guo)
 3. “Unbundling post-disaster aid package.” (in progress)
 
 **Upcoming work:**
 
 1. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
 2. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
-3. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.”
+3. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara)
 4. “Resilience Thinking in development economics: A clash of traditions.”
 
 
