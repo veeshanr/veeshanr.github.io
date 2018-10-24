@@ -23,7 +23,7 @@ Grants
 - Hayek Fund for Scholars, Institute of Humane Studies (received twice) 2018
 - Doctoral Conference Presentation Award, Office of Graduate Studies, UNM 2018
 - Mercatus Travel Fund 2018
-- Charles K. Foundation Dissertation Research Grant 2018-19
+- CKF Dissertation Research Grant and Travel Award 2018-19
 - Rogers Research/Project Award, OGS, UNM 2017-18
 - Student Research Grant, GPSA, UNM (received three times) 2017, 2018 (2)
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
