@@ -18,16 +18,14 @@ function init() {
     let manualTheme = myLocalStorage.getItem("Theme-Manual");
 
     console.log(manualTheme + ' and ' + darkTheme);
-
-    // If there's any value in local storage "Theme-Dark"
-    if (darkTheme!=null && darkTheme.length > 1 )
-        setDarkTheme();
-    else
-        setLightTheme();
     
     // If there's any value in local storage "Theme-Manual"
     if(manualTheme == null)
         autoTheme();
+
+    // If there's any value in local storage "Theme-Dark"
+    if (darkTheme!=null && darkTheme.length > 1 )
+        setDarkTheme();
     
     // Delay before adding class "animate" to body
     setTimeout(function() {
