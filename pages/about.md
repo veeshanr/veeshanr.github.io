@@ -13,7 +13,6 @@ The Nepalese in me finds solace in mountains and wilderness. I enjoy backpacking
 
 Here is a link to my <a class="mark" href="files/CV.pdf">CV!</a>
 
-I will be attn
 
 I am on the 2018-19 econ job market and will be available for interviews at the ASSA/AEA Annual Meeting in Atlanta, GA from January 4-6, 2019.
 
