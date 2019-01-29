@@ -17,23 +17,22 @@ Although formally trained as an environmental and development economist, my rese
 3. **Rayamajhee, V**., & Bohara, A. (forthcoming).Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal. *Food Security*. [[Link to Preprint]][2]
 4. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. *ClinicoEconomics and Outcomes Research*. [Link to Preprint][3]
 
-**Papers in submission/Working Papers:**
+**Working Papers:**
 
 1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [*Under Review*][5]
 2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [*Submitted to Journal*][6]
+3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” *Working Paper*
+4. “Unbundling post-disaster aid package.” *Working Paper*
 
 **In preparation:**
 
-1. *“Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
-2. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (Data analysis completed; with Khatiwada, Bohara, Guo)
-3. “Unbundling post-disaster aid package.” (in progress)
+1. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
+2. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
 
 **Upcoming work:**
-
-1. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
-2. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
-3. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara)
-4. “Resilience Thinking in development economics: A clash of traditions.”
+1. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
+2. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara)
+3. “Resilience Thinking in development economics: A clash of traditions.”
 
 
 Note: * indicates dissertation chapters.
