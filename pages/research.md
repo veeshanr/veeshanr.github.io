@@ -19,8 +19,8 @@ Although formally trained as an environmental and development economist, my rese
 
 **Papers in submission/Working Papers:**
 
-1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [[Link to Preprint]][5]
-2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Submitted to Journal)
+1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [[*Under Review*]][5]
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [[*Submitted to Journal*]][6]
 
 **In preparation:**
 
