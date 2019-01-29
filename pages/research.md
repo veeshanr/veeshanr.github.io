@@ -13,14 +13,14 @@ Although formally trained as an environmental and development economist, my rese
 **Peer-reviewed research articles:** 
 
 1. **Rayamajhee, V.**, & Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund. *Renewable Energy,129(A)*,237-244. [[Link to Paper]] [1]
-2. **Rayamajhee, V.**, & Bohara, A. (2018). Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal. *Journal of International Development*. [[Link to Paper]] [4]
+2. **Rayamajhee, V.**, & Bohara, A. (2018). Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal. *Journal of International Development*. [Link to Paper] [4]
 3. **Rayamajhee, V**., & Bohara, A. (forthcoming).Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal. *Food Security*. [[Link to Preprint]][2]
-4. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. *ClinicoEconomics and Outcomes Research*. [[Link to Preprint]][3]
+4. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (in press). An Iron Triangle ROI Model for Healthcare. *ClinicoEconomics and Outcomes Research*. [Link to Preprint][3]
 
 **Papers in submission/Working Papers:**
 
-1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [[*Under Review*]][5]
-2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [[*Submitted to Journal*]][6]
+1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [*Under Review*][5]
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [*Submitted to Journal*][6]
 
 **In preparation:**
 
