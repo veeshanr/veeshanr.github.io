@@ -19,7 +19,7 @@ Although formally trained as an environmental and development economist, my rese
 
 **Papers in submission/Working Papers:**
 
-1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [[(Under Review)]][5]
+1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [[Link to Preprint]][5]
 2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (Submitted to Journal)
 
 **In preparation:**
@@ -42,6 +42,6 @@ Note: * indicates dissertation chapters.
 [2]: /files/Paper3.pdf
 [3]: /files/Paper4.pdf
 [4]: https://doi.org/10.1002/jid.3406
-[5]: /files/Rayamajhee et al_ Chapter 2.pdf
-[5]: /files/Rayamajhee et al 2019_chapter 1.pdf
+[5]: /files/Chapter2.pdf
+[6]: /files/Chapter1.pdf
 
