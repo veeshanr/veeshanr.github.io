@@ -11,7 +11,6 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 
 The Nepalese in me finds solace in mountains and wilderness. I enjoy backpacking in the American Southwest. When ABQ temperature falls below 90, I love hiking in the Sandias, and running around Nobhill. 
 
-I am on the 2018-19 econ job market and will be available for interviews at the ASSA/AEA Annual Meeting in Atlanta, GA from January 4-6, 2019.
 
 Here is a link to my <a class="mark" href="files/CV.pdf">CV!</a>
 
