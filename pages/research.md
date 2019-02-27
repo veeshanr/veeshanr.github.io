@@ -20,18 +20,15 @@ Although formally trained as an environmental and development economist, my rese
 **Working Papers:**
 
 1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [*Under Review*][5]
-2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [*Submitted to Journal*][6]
-3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” *Working Paper*
-4. “Unbundling post-disaster aid package.” *Working Paper*
+2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [*Under Review*][6]
+3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Working Paper*
+4. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara) *Working Paper*
+5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” *Working Paper*
+6. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *In Preparation*
 
-**In preparation:**
-
-1. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
-2. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri)
-
-**Upcoming work:**
+**Upcoming Papers:**
 1. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
-2. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara)
+2. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
 3. “Resilience Thinking in development economics: A clash of traditions.”
 
 
