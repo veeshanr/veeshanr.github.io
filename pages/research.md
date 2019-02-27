@@ -21,7 +21,7 @@ Although formally trained as an environmental and development economist, my rese
 
 1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” [*Under Review*][5]
 2. *“Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” [*Under Review*][6]
-3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Working Paper*
+3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Ready for Submission*
 4. “Social entrepreneurship and natural disasters: The Dhurmus Suntali Project.” (with V. H. Storr, A.K. Bohara) *Working Paper*
 5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” *Working Paper*
 6. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *In Preparation*
