@@ -8,6 +8,11 @@ title: Research
 Research
 ========
 
+
+Download <a class="mark" href="files/CV.pdf">CV</a>
+
+
+
 Although formally trained as an environmental and development economist, my research frequently traverses into interdisciplinary territories. My core research interests lie in climatic and environmental shocks, ex-ante risk mitigation and ex-post coping strategies. Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
