@@ -11,11 +11,6 @@ Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Stud
 
 The Nepalese in me finds solace in mountains and wilderness. I enjoy backpacking in the American Southwest. When ABQ temperature falls below 90, I love hiking in the Sandias, and running around Nobhill. 
 
-
-Here is a link to my <a class="mark" href="files/CV.pdf">CV!</a>
-
-
-
-
+I am happy to announce that I will be joining North Dakota State University as an assistant professor of economics in the Department of Agribusiness and Applied Economics and a faculty fellow at the Center for the Study of Public Choice and Private Enterprise starting Fall-2019.
 
 [1]: https://asp.mercatus.org/people/veeshan-rayamajhee
