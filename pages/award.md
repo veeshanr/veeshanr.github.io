@@ -11,29 +11,28 @@ Awards/Honors
 Fellowships
 -----------
 
-- Adam Smith Fellowship (research sequence), Mercatus Center, George Mason University 2018-19
+- Adam Smith Fellowship, Mercatus Center, George Mason University 2017-18, 2018-19
 - Humane Studies Fellowship, Institute of Humane Studies 2018-19
-- Adam Smith Fellowship, Mercatus Center 2017-18
 
 Grants
 ------
 
-- CGO Research Award, Utah State University (incl. RA support, honoraria, etc.) 2018
-- Professional Development Grant, GPSA, UNM (received three times) 2017, 2018 (2)
-- Hayek Fund for Scholars, IHS (received twice) 2018
+- CGO Research Grant, Utah State University  2018
+- Professional Development Grant, GPSA, UNM (x3) 2017, 2018
+- Hayek Fund for Scholars, IHS (x3) 2018
 - Doctoral Conference Presentation Award, OGS-UNM 2018
 - Mercatus Travel Fund 2018
 - CKF Dissertation Research Grant and Travel Award 2018-19
 - Rogers Research/Project Award, OGS, UNM 2017-18
-- Student Research Grant, GPSA, UNM (received three times) 2017, 2018 (2)
+- Student Research Grant, GPSA, UNM (x3) 2017, 2018
 - Graduate Research Supplement Award, Office of Graduate Studies, UNM 2016-17
-- Economics Graduate Students Organization Award, UNM (received twice) 2016-17, 2018
+- Economics Graduate Students Organization Award, UNM (x2) 2016-17, 2018
 - German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer Course Grant 2011
 
 
 Honors/Awards
 -------------
-- Don Lavoie Memorial Graduate Student Essay Award (SDAE) to be awarded at the Southern Economic Association Meeting in Washington DC, 2018
+- Don Lavoie Memorial Graduate Student Essay Award, Society for the Development of Austrian Economics, 2018
 - Alfred L. Parker PhD Endowed Scholarship in Economics, Department of Economics, UNM 2018-19
 - J. Raymond Stuart Award in Economics, Department of Economics, UNM 2017-18
 - Son of the Academy (Academic Award for “the highest level of scholarship, contribution to the intellectual life, and affirmation of the college’s distinctive purpose”), BAC 2013-14
