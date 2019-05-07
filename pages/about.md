@@ -9,8 +9,6 @@ Formally trained as an environmental and development economist, my research vent
 
 Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Studies (Mathematics and Business management) and an Associate's degree in Philosophy, both from Bryn Athyn College, Pennsylvania. I am also an Adam Smith Fellow at the [Mercatus Center] [1] (George Mason University).
 
-The Nepalese in me finds solace in mountains and wilderness. I enjoy backpacking in the American Southwest. When ABQ temperature falls below 90, I love hiking in the Sandias, and running around Nobhill. 
-
 I am happy to announce that I will be joining North Dakota State University as an assistant professor of economics in the Department of Agribusiness and Applied Economics and a faculty fellow at the Center for the Study of Public Choice and Private Enterprise starting Fall-2019.
 
 [1]: https://asp.mercatus.org/people/veeshan-rayamajhee
