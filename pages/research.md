@@ -26,15 +26,16 @@ Although formally trained as an environmental and development economist, my rese
 
 1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (with A.K. Bohara) [*Under Review*][5]
 2. “Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (with V. H. Storr, A.K. Bohara) [*Under Review*][6]
-3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Ready for Submission*
+3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Under Revision*
 4. “ The Neither-Market-Nor-State Role of Social entrepreneurs in Post-disaster Contexts: Evidence from the Dhurmus Suntali Foundation’s Giranchaur Namuna Basti Project in Nepal.” (with V. H. Storr, A.K. Bohara) *In submission stage*
 5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
-6. “Governing wind-power with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
+6. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
 
-**Upcoming Papers:**
+**In Preparation (selected):**
 1. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
 2. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
 3. “Resilience Thinking in development economics: A clash of traditions.”
+4. “Dynamics of Good-typology Revisited.” 
 
 
 
