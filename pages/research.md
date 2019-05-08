@@ -9,7 +9,7 @@ Research
 ========
 
 
- <a class="mark" href="files/CV.pdf">Download CV</a>
+ [Download CV](files/CV.pdf)
 
 
 
