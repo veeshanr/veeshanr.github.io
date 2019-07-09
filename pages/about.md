@@ -9,8 +9,11 @@ Formally trained as an environmental and development economist, my research vent
 
 Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Studies (Mathematics and Business management) and an Associate's degree in Philosophy, both from [Bryn Athyn College][1], Pennsylvania. I received my Master's and doctorate degrees in economics from the [University of New Mexico][2]. I am also an Adam Smith Fellow at the [Mercatus Center] [3] (George Mason University).
 
-I am happy to announce that I will be joining North Dakota State University as an assistant professor of economics in the Department of Agribusiness and Applied Economics and a faculty fellow at the Center for the Study of Public Choice and Private Enterprise starting Fall-2019.
+I am happy to announce that I will be joining [North Dakota State University][4] as an assistant professor of economics in the [Department of Agribusiness and Applied Economics][5] and a faculty fellow at the [Center for the Study of Public Choice and Private Enterprise][6] starting Fall-2019.
 
 [1]: https://brynathyn.edu/
 [2]: http://econ.unm.edu
 [3]: https://asp.mercatus.org/people/veeshan-rayamajhee
+[4]: https://www.ndsu.edu/
+[5]: https://www.ag.ndsu.edu/agecon
+[6]: https://www.ndsu.edu/centers/pcpe/
