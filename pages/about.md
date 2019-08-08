@@ -10,7 +10,6 @@ I joined [North Dakota State University][4] as an assistant professor of economi
 Originally from Nepal, I received my Bachelor's degree in Interdisciplinary Studies (Mathematics and Business management) and an Associate's degree in Philosophy, both from [Bryn Athyn College][1], Pennsylvania. I received my Master's and doctorate degrees in economics from the [University of New Mexico][2]. I was an Adam Smith Fellow at the [Mercatus Center] [3] (George Mason University) for AYs 2017/18 and 2018/19.
 
 **Research Interests:**
-
 Economics of Disasters and Climate Change; Social Capital; Food Security, Collective Action; New Institutional Economics
 
 [1]: https://brynathyn.edu/
