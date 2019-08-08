@@ -11,9 +11,7 @@ Research
 
  [Download CV](files/CV.pdf)
 
-
-
-Although formally trained as an environmental and development economist, my research frequently traverses into interdisciplinary territories. My core research interests lie in climatic and environmental shocks, ex-ante risk mitigation and ex-post coping strategies. Below is a preview of my past and current research:
+Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
@@ -27,8 +25,8 @@ Although formally trained as an environmental and development economist, my rese
 
 1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (with A.K. Bohara) *Under Review*
 2. “Natural Disasters, Ex-post Coping mechanisms, and Post-disaster Resilience: Evidence from 2015 earthquakes Nepal.” (with V. H. Storr, A.K. Bohara) *Under Review*
-3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Under Revision*
-4. “ The Neither-Market-Nor-State Role of Social entrepreneurs in Post-disaster Contexts: Evidence from the Dhurmus Suntali Foundation’s Giranchaur Namuna Basti Project in Nepal.” (with V. H. Storr, A.K. Bohara) *In submission stage*
+3. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Final Revision Submitted*
+4. “Social entrepreneurship, coproduction, and post-disaster recovery: Evidence from the Dhurmus Suntali Foundation’s Giranchaur Namuna Basti Project in Nepal.” (with V. H. Storr, A.K. Bohara) *In submission stage*
 5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
 6. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
 
