@@ -16,10 +16,10 @@ Below is a preview of my past and current research:
 **Peer-reviewed research articles:** 
 
 
-4. **Rayamajhee, V**., & Bohara, A. (2019).Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal. *Food Security*. [*Link to Paper*][4]
-3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [An Iron Triangle ROI Model for Healthcare] [3]. *ClinicoEconomics and Outcomes Research*. [*Link to Paper*]
-2. **Rayamajhee, V.**, & Bohara, A. (2019). Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal. *Journal of International Development*. [*Link to Paper*] [1]
-1. **Rayamajhee, V.**, & Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund. *Renewable Energy,129(A)*,237-244. [*Link to Paper*] [2]
+4. **Rayamajhee, V**., & Bohara, A. (2019).[Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal] [4]. *Food Security*.
+3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [An Iron Triangle ROI Model for Healthcare] [3]. *ClinicoEconomics and Outcomes Research*.
+2. **Rayamajhee, V.**, & Bohara, A. (2019). [Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal] [1]. *Journal of International Development*.
+1. **Rayamajhee, V.**, & Joshi, A. (2018). [Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund][2]. *Renewable Energy,129(A)*,237-244.
 
 **Working Papers:**
 
