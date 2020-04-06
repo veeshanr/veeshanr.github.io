@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <page-content>
-      <wrapper>
-	{% include header.html %}
-  {% include theme-toggle.html %}
-	<h1>{{ site.title }}</h1>
-  <img src="/img/profile.jpg" alt="Profile Picture">
-	<content class="float">
-	        {{ content }}
-	</content>
-	<sidebar>
-		{% include contact.html %}
-	</sidebar>
-
-      <bg-screen onclick="toggleMenu()"></bg-screen>
-      {% include footer.html %}
-      </wrapper>
-    </page-content>
-  </body>
+<body>
+    <div class="wrap">
+        {% include header.html %}
+        <main class="card about-page">
+            <h1 id="{{page.title}}"> {{ site.title }} </h1>
+            <section>
+                <aside>
+					<img src="/img/profile.jpg" alt="Profile Picture">
+                    {% include contact.html %}
+                </aside>
+                <article>
+                    {{ content }}
+                </article>
+            </section>
+        </main>
+        {% include footer.html %}
+    </div>
+</body>
 
 </html>

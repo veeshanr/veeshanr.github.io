@@ -1,21 +1,14 @@
 <header>
-<nav>
-	<ul>
-	{% assign navbar-elements = (site.pages | sort: 'navbar-index')%}
-        {% for nav in navbar-elements %}
-	{% if nav.navbar-index %}
-	{% if page.url == nav.url %}
-          <li><a class="current" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a></li>
-	{% else %}
-          <li><a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a></li>
-	{% endif %}
-	{% endif %}
-        {% endfor %}
-	</ul>
-	<pancake onclick="toggleMenu()">
-		<bar></bar>
-		<bar></bar>
-		<bar></bar>
-	</pancake>
-</nav>
+    <nav>
+		<button id="toggle-menu"><i class="material-icons">menu</i></button>
+		<ul>
+            {% assign navbar-elements = (site.pages | sort: 'navbar-index')%}
+			{% for nav in navbar-elements %}
+			{% if nav.navbar-index %}
+			<li><a class="{% if page.url == nav.url %}active{% endif %}" href="{{ nav.url | prepend: site.baseurl }}">{{ nav.title }}</a></li>
+			{% endif %}
+			{% endfor %}
+        </ul>
+		<button id="toggle-theme"><i class="material-icons">brightness_low</i></button>
+    </nav>
 </header>

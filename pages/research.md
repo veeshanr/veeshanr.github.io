@@ -5,10 +5,6 @@ navbar-index: 1
 title: Research
 ---
 
-Research
-========
-
-
  [Download CV](files/CV.pdf)
 
 Below is a preview of my past and current research:
