@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-5. **Rayamajhee, V**., Bohara, A.K., & Storr, V.H. (2020).[Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake]. *Economics of Disasters and Climate Change, Forthcoming *
+5. **Rayamajhee, V**., Bohara, A.K., & Storr, V.H. (2020).Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake. *Economics of Disasters and Climate Change, Forthcoming *
 4. **Rayamajhee, V**., & Bohara, A. (2019).[Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal] [4]. *Food Security*.
 3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [An Iron Triangle ROI Model for Healthcare] [3]. *ClinicoEconomics and Outcomes Research*.
 2. **Rayamajhee, V.**, & Bohara, A. (2019). [Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal] [1]. *Journal of International Development*.
@@ -27,8 +27,8 @@ Below is a preview of my past and current research:
 2. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (with A.K. Bohara) *Under Review*
 3. “The Ostroms and the Contestable Nature of Goods.” (with Pablo Paniagua) *Under Review*
 4. “Climate Change Impacts: Stochastic Frontier Production Model with Spatial Filtering Technique.” (with Guo and Bohara) *Submitted*
-3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
-4. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
+5. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
+6. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
 
 **In Preparation (selected):**
 1. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
