@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-5. **Rayamajhee, V**., Bohara, A.K., & Storr, V.H. (2020).[Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake] [5]. *Economics of Disasters and Climate Change* (Forthcoming).
+5. **Rayamajhee, V**., Bohara, A.K., & Storr, V.H. (2020).[Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake] [5]. *Economics of Disasters and Climate Change*.
 4. **Rayamajhee, V**., & Bohara, A. (2019).[Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal] [4]. *Food Security*.
 3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [An Iron Triangle ROI Model for Healthcare] [3]. *ClinicoEconomics and Outcomes Research*.
 2. **Rayamajhee, V.**, & Bohara, A. (2019). [Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal] [1]. *Journal of International Development*.
