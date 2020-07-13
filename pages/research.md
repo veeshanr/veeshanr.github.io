@@ -32,10 +32,10 @@ Below is a preview of my past and current research:
 
 **Working Papers (selected):**
 
-1.  *R&R*
-2. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal.” (with A.K. Bohara) *Under Review*
-3. “Climate Change Impacts: Stochastic Frontier Production Model with Spatial Filtering Technique.” (with Guo and Bohara) *Submitted*
-4. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
+1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal” (with Alok K. Bohara), *Under Review*
+2. “Climate Change Impacts: Stochastic Frontier Production Model with Spatial Filtering Technique” (with Wenmei Guo and Alok K. Bohara), *Under Review*
+3. “Perception of Climate Change and the Demand for Weather Index Microinsurance” (with Wenmei Guo and Alok K. Bohara), *Under Review*
+3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
 5. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
 
 **In Preparation (selected):**
