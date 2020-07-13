@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-“Social entrepreneurship, co-production, and post-disaster recovery” (with Virigl H. Storr and Alok K. Bohara), *Disasters* forthcoming.
+“Social entrepreneurship, co-production, and post-disaster recovery” (with Virgil H. Storr and Alok K. Bohara), *Disasters* forthcoming.
 
 “The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity” (with Pablo Paniagua), *Journal of Institutional Economics* forthcoming.
 
@@ -19,12 +19,14 @@ Below is a preview of my past and current research:
 
 [“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara),*Food Security*, 2019.
 
-3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [“An Iron Triangle ROI Model for Healthcare”] [3]. *ClinicoEconomics and Outcomes Research*.
-2. **Rayamajhee, V.**, & Bohara, A. (2019). [“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal”] [1]. *Journal of International Development*.
-1. **Rayamajhee, V.**, & Joshi, A. (2018). [“Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund”][2]. *Renewable Energy.*
+[“An Iron Triangle ROI Model for Healthcare”] [3] (with D. van der Goes, N. Edwardson, C. Hollis, & D. Hunter), *ClinicoEconomics and Outcomes Research*, 2019.
+
+[“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal”] [1] (with Alok K. Bohara), *Journal of International Development*, 2019.
+
+[“Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund”][2] (with Aakrit Joshi), *Renewable Energy*, 2018.
 
 **Contributions to Edited Volumes:** 
-1. “On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Forthcoming*
+“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Forthcoming*
 
 
 **Working Papers (selected):**
