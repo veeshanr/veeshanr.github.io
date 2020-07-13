@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-6. **Rayamajhee, V**., & Paniagua, P. (2020). The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity. *Journal of Institutional Economics*. [forthcoming]
+6.``The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity" (with Pablo Paniagua), *Journal of Institutional Economics* forthcoming.
 5. **Rayamajhee, V**., Bohara, A.K., & Storr, V.H. (2020).[Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake] [5]. *Economics of Disasters and Climate Change*.
 4. **Rayamajhee, V**., & Bohara, A. (2019).[Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal] [4]. *Food Security*.
 3. van der Goes, D., Edwardson, N., **Rayamajhee, V.**, Hollis,C.,& Hunter, D. (2019). [An Iron Triangle ROI Model for Healthcare] [3]. *ClinicoEconomics and Outcomes Research*.
