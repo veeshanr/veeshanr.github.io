@@ -26,7 +26,8 @@ Below is a preview of my past and current research:
 [“Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund”][2] (with Aakrit Joshi), *Renewable Energy*, 2018.
 
 **Contributions to Edited Volumes:** 
-“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts.” *Forthcoming*
+
+[“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
 
 
 **Working Papers (selected):**
@@ -47,3 +48,4 @@ Below is a preview of my past and current research:
 [3]: https://doi.org/10.2147/CEOR.S130623
 [4]: https://doi.org/10.1007/s12571-019-00907-0
 [5]: https://doi.org/10.1007/s41885-020-00064-1
+[8]: https://books.google.com/books?hl=en&lr=&id=E2vsDwAAQBAJ&oi=fnd&pg=PA3&ots=rGTKi7MRy4&sig=bnAIzztsbe5cmY3krMCmJYRZwQo#v=onepage&q&f=false
