@@ -13,7 +13,7 @@ Below is a preview of my past and current research:
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, forthcoming.
 
-[“The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity”] [7] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
+[“The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity”] [7] (with Pablo Paniagua), *Journal of Institutional Economics*, 2020.
 
 [“Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
 
