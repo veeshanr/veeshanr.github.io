@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-[“The impact of climate change on rice production in Nepal”] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, forthcoming.
+[“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, forthcoming.
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, forthcoming.
 
@@ -52,3 +52,4 @@ Below is a preview of my past and current research:
 [6]: https://doi.org/10.1111/disa.12454
 [7]: https://doi.org/10.1017/S1744137420000338
 [8]: https://books.google.com/books?hl=en&lr=&id=E2vsDwAAQBAJ&oi=fnd&pg=PA3&ots=rGTKi7MRy4&sig=bnAIzztsbe5cmY3krMCmJYRZwQo#v=onepage&q&f=false
+[9]: https://www.springer.com/journal/41885
