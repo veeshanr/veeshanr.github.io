@@ -11,6 +11,8 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
+[“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*
+
 [“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, forthcoming.
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, forthcoming.
@@ -34,7 +36,7 @@ Below is a preview of my past and current research:
 
 **Working Papers (selected):**
 
-1. “Social Capital, Trust, and Collective Action in Post-earthquake Nepal” (with Alok K. Bohara), *Under Review*
+
 2. “Perception of Climate Change and WTP for Weather Index Microinsurance” (with Wenmei Guo and Alok K. Bohara), *Under Review*
 3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
 4. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
@@ -53,3 +55,4 @@ Below is a preview of my past and current research:
 [7]: https://doi.org/10.1017/S1744137420000338
 [8]: https://books.google.com/books?hl=en&lr=&id=E2vsDwAAQBAJ&oi=fnd&pg=PA3&ots=rGTKi7MRy4&sig=bnAIzztsbe5cmY3krMCmJYRZwQo#v=onepage&q&f=false
 [9]: https://doi.org/10.1007/s41885-020-00079-8
+[10]: https://www.springer.com/journal/11069
