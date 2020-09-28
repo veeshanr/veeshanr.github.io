@@ -11,7 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-[“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*
+[“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, forthcoming.
 
 [“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, forthcoming.
 
