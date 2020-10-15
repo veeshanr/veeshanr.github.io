@@ -55,4 +55,4 @@ Below is a preview of my past and current research:
 [7]: https://doi.org/10.1017/S1744137420000338
 [8]: https://books.google.com/books?hl=en&lr=&id=E2vsDwAAQBAJ&oi=fnd&pg=PA3&ots=rGTKi7MRy4&sig=bnAIzztsbe5cmY3krMCmJYRZwQo#v=onepage&q&f=false
 [9]: https://doi.org/10.1007/s41885-020-00079-8
-[10]: https://www.springer.com/journal/11069
+[10]: https://doi.org/10.1007/s11069-020-04363-4
