@@ -2,8 +2,10 @@
 layout: default
 permalink: /publicwriting
 navbar-index: 3
-title: Selected Public Writing
+title: Public Writing
 ---
+
+**Selected Public Writing**
 
 [``Elinor Ostrom and the Contestable Nature of Goods"] [1], King's College London Center for the Study of Governance and Society Blog (with Pablo Paniagua).
 
