@@ -11,6 +11,8 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
+[“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, forthcoming.
+
 [“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, forthcoming.
 
 [“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2020.
@@ -56,3 +58,4 @@ Below is a preview of my past and current research:
 [8]: https://books.google.com/books?hl=en&lr=&id=E2vsDwAAQBAJ&oi=fnd&pg=PA3&ots=rGTKi7MRy4&sig=bnAIzztsbe5cmY3krMCmJYRZwQo#v=onepage&q&f=false
 [9]: https://doi.org/10.1007/s41885-020-00079-8
 [10]: https://doi.org/10.1007/s11069-020-04363-4
+[11}: https://www.researchgate.net/publication/349105656_Governing_nested_externalities_during_a_pandemic_social_distancing_as_a_co-production_problem
