@@ -22,5 +22,5 @@ title: Public Writing
 
 [1]: https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/
 [2]: https://joie-blog.net/the-limits-and-perils-of-the-dichotomous-private-public-taxonomy
-[3]: https://www.ndsu.edu/centers/pcpe/news/detail/55669/
+[3]: https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/55669/
 [4]: https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-economics-lessons-from-bald-and-bankrupt
