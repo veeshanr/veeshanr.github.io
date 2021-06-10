@@ -7,6 +7,8 @@ title: Public Writing
 
 **Selected Public Writing**
 
+
+
 [``Elinor Ostrom and the Contestable Nature of Goods"] [1], King's College London Center for the Study of Governance and Society Blog (with Pablo Paniagua).
 
 
@@ -18,9 +20,11 @@ title: Public Writing
 
 [``Economics lessons from Bald and Bankrupt"] [4], NDSU Extension and Ag Research News.
 
+[``Is Centralization Needed to End the Pandemic?"][5], Polycentricity Network.
 
 
 [1]: https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/
 [2]: https://joie-blog.net/the-limits-and-perils-of-the-dichotomous-private-public-taxonomy
 [3]: https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/55669/
 [4]: https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-economics-lessons-from-bald-and-bankrupt
+[5]: https://polycentricity.iasc-commons.org/index.php/2021/06/02/is-centralization-needed-to-end-the-pandemic-an-essay-by-veeshan-raymajhee-ndsuusa/?fbclid=IwAR005peYKWDLbRIpdTPbCjvZO2u_P9o_AzN2SOfk3GUpiIhX1mSh10YJX00
