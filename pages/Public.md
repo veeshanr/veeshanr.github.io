@@ -7,7 +7,7 @@ title: Public Writing
 
 **Selected Public Writing**
 
-
+[``Is Centralization Needed to End the Pandemic?"][5], Polycentricity Network.
 
 [``Elinor Ostrom and the Contestable Nature of Goods"] [1], King's College London Center for the Study of Governance and Society Blog (with Pablo Paniagua).
 
@@ -19,8 +19,6 @@ title: Public Writing
 
 
 [``Economics lessons from Bald and Bankrupt"] [4], NDSU Extension and Ag Research News.
-
-[``Is Centralization Needed to End the Pandemic?"][5], Polycentricity Network.
 
 
 [1]: https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/
