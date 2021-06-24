@@ -11,6 +11,9 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
+[``Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
+
+
 [“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, forthcoming.
 
 [“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, 2021.
@@ -59,3 +62,4 @@ Below is a preview of my past and current research:
 [9]: https://doi.org/10.1007/s41885-020-00079-8
 [10]: https://doi.org/10.1007/s11069-020-04363-4
 [11]: https://cosmosandtaxis.files.wordpress.com/2021/05/rayamajhee_et_al_ct_vol9_iss_5_6.pdf
+[12]: https://www.tandfonline.com/toc/tcld20/current?gclid=CjwKCAjwt8uGBhBAEiwAayu_9SD69qlZZ4b68UkS01ChfUC6EAm7hUAQt3jftP2NXhsvf_ZufCVoghoC26sQAvD_BwE
