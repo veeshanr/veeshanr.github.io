@@ -11,8 +11,7 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
-[``Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
-
+[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
 
 [“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, forthcoming.
 
@@ -38,17 +37,6 @@ Below is a preview of my past and current research:
 
 [“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
 
-
-**Working Papers (selected):**
-
-
-2. “Perception of Climate Change and WTP for Weather Index Microinsurance” (with Wenmei Guo and Alok K. Bohara), *Under Review*
-3. “Ex-ante Perception of Climate Change Impact and the Choice of Mitigation Strategies: Evidence from a field survey in Nepal.” (with N. Khatiwada, A.K. Bohara) *Working paper*
-4. “Governing externality with Consent: Ostrom meets Buchanan.” (with Jamal Mamkhezri) *Working paper*
-
-**In Preparation (selected):**
-1. “Coping Collectively: A test of Consumption Insurance Hypothesis." (with Mohammad Ali) 
-2. “Natural Disaster Shocks, Risk Perception, and Willingness to Pay for Weather-indexed Micro-insurance: a pre-post analysis.” (Data analysis in progress)
 
 
 [1]: https://doi.org/10.1002/jid.3406
