@@ -11,6 +11,8 @@ Below is a preview of my past and current research:
 
 **Peer-reviewed research articles:** 
 
+[“A Polycentric Approach to Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
+
 [“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
 
 [“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, forthcoming.
@@ -51,3 +53,4 @@ Below is a preview of my past and current research:
 [10]: https://doi.org/10.1007/s11069-020-04363-4
 [11]: https://cosmosandtaxis.files.wordpress.com/2021/05/rayamajhee_et_al_ct_vol9_iss_5_6.pdf
 [12]: https://doi.org/10.1080/17565529.2021.1949574
+[13]: https://www.cambridge.org/core/journals/journal-of-institutional-economics
