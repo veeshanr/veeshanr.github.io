@@ -7,7 +7,7 @@ title: Research
 
  [Download CV](files/CV.pdf)
 
-Below is a preview of my past and current research:
+Below is a list of my published and working papers:
 
 **Peer-reviewed research articles:** 
 
