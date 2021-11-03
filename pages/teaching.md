@@ -16,9 +16,6 @@ transaction costs, informal norms, culture, and conventions.
 
 [Download Syllabus](files/ECON762.pdf)
 
-Course Preview:
-[[Lecture1]](files/Lecture1.pdf) [[Lecture5]](files/Lecture5.pdf)[[Lecture7]](files/Lecture7.pdf)
-
 ECON202: **Principles of Macroeconomics**
 
 Fall 2019/Spring 2020/Fall 2020/Spring 2021
