@@ -11,7 +11,7 @@ Below is a list of my published and working papers:
 
 **Peer-reviewed research articles:** 
 
-[“A Polycentric Approach to Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
+[“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
 
 [“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
 
