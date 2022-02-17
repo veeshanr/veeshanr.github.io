@@ -17,3 +17,4 @@ Disasters; Climate adaptation; Institutions
 [4]: https://www.ndsu.edu/
 [5]: https://www.ag.ndsu.edu/agecon
 [6]: https://www.ndsu.edu/centers/pcpe/
+[7]: https://www.ndsu.edu/challeyinstitute/
