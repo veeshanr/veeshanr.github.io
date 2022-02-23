@@ -15,32 +15,31 @@ Below is a list of my published and working papers:
 
 [“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
 
-[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, forthcoming.
+[“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
 
-[“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, forthcoming.
+[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2021.
+
+[“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, 2021.
 
 [“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, 2021.
 
-[“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2020.
-
-[“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, forthcoming.
-
 [“The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity”] [7] (with Pablo Paniagua), *Journal of Institutional Economics*, 2021.
+
+[“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2021.
 
 [“Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
 
 [“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara),*Food Security*, 2019.
 
-[“An Iron Triangle ROI Model for Healthcare”] [3] (with D. van der Goes, N. Edwardson, C. Hollis, & D. Hunter), *ClinicoEconomics and Outcomes Research*, 2019.
-
 [“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal”] [1] (with Alok K. Bohara), *Journal of International Development*, 2019.
+
+[“An Iron Triangle ROI Model for Healthcare”] [3] (with D. van der Goes, N. Edwardson, C. Hollis, & D. Hunter), *ClinicoEconomics and Outcomes Research*, 2019.
 
 [“Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund”][2] (with Aakrit Joshi), *Renewable Energy*, 2018.
 
 **Contributions to Edited Volumes:** 
 
 [“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
-
 
 
 [1]: https://doi.org/10.1002/jid.3406
