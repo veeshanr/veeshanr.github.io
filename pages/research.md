@@ -11,6 +11,8 @@ Below is a list of my published and working papers:
 
 **Peer-reviewed research articles:** 
 
+[“Cloudy with a Chance of Munchies: Assessing the Impact of Recreational Marijuana Legalization on Obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, forthcoming.
+
 [“Coproduction and the Crafting of Cognitive Institutions during the COVID-19 Pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
 
 [“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
@@ -55,6 +57,6 @@ Below is a list of my published and working papers:
 [11]: https://cosmosandtaxis.files.wordpress.com/2021/05/rayamajhee_et_al_ct_vol9_iss_5_6.pdf
 [12]: https://doi.org/10.1080/17565529.2021.1949574
 [13]: https://doi.org/10.1017/S1744137421000795
-[14]: https://www.cambridge.org/core/journals/journal-of-institutional-economics
-
+[14]: https://doi.org/10.1017/S1744137422000078
+[15]: https://onlinelibrary.wiley.com/journal/10991050
 
