@@ -59,4 +59,3 @@ Below is a list of my published and working papers:
 [13]: https://doi.org/10.1017/S1744137421000795
 [14]: https://doi.org/10.1017/S1744137422000078
 [15]: https://doi.org/10.1002/hec.4598
-
