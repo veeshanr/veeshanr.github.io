@@ -27,6 +27,6 @@ The economics of the public sector, including: taxation, expenditure, public goo
 
 **Research Philosophy**
 
-This course will walk students through the process of conducting economic research. We cover what it means to think like an economist, and more importantly, how to write like one. By the end of this course, students should be able to develop your own ideas, conduct literature review, identify problems and gaps in understanding, formulate empirically testable hypotheses, gather, manage and analyze data, and effectively communicate your findings.
+This course will walk students through the process of conducting economic research. We cover what it means to think like an economist, and more importantly, how to write like one. By the end of this course, students should be able to develop their own ideas, conduct literature review, identify problems and gaps in understanding, formulate empirically testable hypotheses, gather, manage and analyze data, and effectively communicate their findings.
 
 [Download Syllabus](files/AGEC701.pdf)
