@@ -58,5 +58,5 @@ Below is a list of my published and working papers:
 [12]: https://doi.org/10.1080/17565529.2021.1949574
 [13]: https://doi.org/10.1017/S1744137421000795
 [14]: https://doi.org/10.1017/S1744137422000078
-[15]: https://onlinelibrary.wiley.com/journal/10991050
+[15]: https://doi.org/10.1002/hec.4598
 
