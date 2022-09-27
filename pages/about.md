@@ -10,7 +10,7 @@ I am an assistant professor of economics in the [Department of Agribusiness and 
 I live in West Fargo, North Dakota with my wife and pet children (two cats and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking in neigboring states (ND is very flat!).
 
 **Research Interests:**
-Disasters; Climate adaptation; Institutions
+Crises; Disasters; Institutions
 
 [1]: https://brynathyn.edu/
 [2]: http://econ.unm.edu
