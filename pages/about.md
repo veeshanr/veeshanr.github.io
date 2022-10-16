@@ -11,6 +11,7 @@ I live in West Fargo, North Dakota with my wife and pet children (two cats and a
 
 **Current Research Projects:**
 Opioid Crises; Disasters; Institutional Change
+
 [Google Scholar link][8]
 
 [1]: https://brynathyn.edu/
