@@ -11,9 +11,9 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, forthcoming.
-
 [“Cloudy with a Chance of Munchies: Assessing the Impact of Recreational Marijuana Legalization on Obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, forthcoming. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
+
+[“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, forthcoming.
 
 [“Coproduction and the Crafting of Cognitive Institutions during the COVID-19 Pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
 
