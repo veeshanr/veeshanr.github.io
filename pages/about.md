@@ -9,8 +9,9 @@ I am an assistant professor of economics in the [Department of Agribusiness and 
 
 I live in West Fargo, North Dakota with my wife and pet children (two cats and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking in neigboring states (ND is very flat!).
 
-**Research Interests:**
-Crises; Disasters; Institutions
+**Current Research Projects:**
+Opioid Crises; Disasters; Institutional Change
+[Google Scholar link][8]
 
 [1]: https://brynathyn.edu/
 [2]: http://econ.unm.edu
@@ -18,3 +19,4 @@ Crises; Disasters; Institutions
 [5]: https://www.ag.ndsu.edu/agecon
 [6]: https://www.ndsu.edu/centers/pcpe/
 [7]: https://www.ndsu.edu/challeyinstitute/
+[8]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao
