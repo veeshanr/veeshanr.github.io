@@ -21,7 +21,7 @@ Below is a list of my published and forthcoming papers:
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
 
-[“Does socialcapitalhelpinpost-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with A. Shahid and A.K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
+[“Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
 
 [“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2021.
 
