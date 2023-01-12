@@ -12,7 +12,7 @@ I live in West Fargo, North Dakota with my wife and pet children (two cats and a
 **Current Research Projects:**
 Opioid Crises; Disasters; Institutional Change
 
-[Google Scholar link][8]
+[Google Scholar link][8] [ResearchGate link] [9]
 
 [1]: https://brynathyn.edu/
 [2]: http://econ.unm.edu
@@ -21,3 +21,4 @@ Opioid Crises; Disasters; Institutional Change
 [6]: https://www.ndsu.edu/centers/pcpe/
 [7]: https://www.ndsu.edu/challeyinstitute/
 [8]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao
+[9]: https://www.researchgate.net/profile/Veeshan-Rayamajhee
