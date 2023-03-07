@@ -7,7 +7,7 @@ title: About Me
 
 I am an assistant professor of economics in the [Department of Agribusiness and Applied Economics][5] at [North Dakota State University][4]. I am also a faculty fellow at the [Center for the Study of Public Choice and Private Enterprise][6] and a faculty scholar at at the [Sheila and Robert Challey Institute for Global Innovation and Growth at NDSU][7]. 
 
-My research interests are in the fields of Environmental and Natural Resource Economics, Institutional Economics, Development Econoimcs, and Political Economy. My research has appeared in peer-reviewed journals such as *Health Economics*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Climate and Development*. 
+My research interests are in the fields of Environmental and Natural Resource Economics, Institutional Economics, Development Economics, and Political Economy. My research has appeared in peer-reviewed journals such as *Health Economics*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Climate and Development*. 
 
 I live in West Fargo, North Dakota with my wife and pet children (two cats and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking in neigboring states (ND is very flat!).
 
