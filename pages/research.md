@@ -11,19 +11,21 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Cloudy with a Chance of Munchies: Assessing the Impact of Recreational Marijuana Legalization on Obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, forthcoming. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
+[“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
 
-[“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, forthcoming.
+["The tragedy of the nurdles: Governing global externalities"] [18] (with Ilia Murtazashvili and Keith Taylor), *Sustainability*, 2023. 
 
-[“Coproduction and the Crafting of Cognitive Institutions during the COVID-19 Pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
+[“Cloudy with a Chance of Munchies: Assessing the Impact of Recreational Marijuana Legalization on Obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, 2022. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
 
-[“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, forthcoming.
+[“Coproduction and the Crafting of Cognitive Institutions during the COVID-19 Pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
+
+[“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
 
-[“Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
+[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2022.
 
-[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2021.
+[“Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
 
 [“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, 2021.
 
@@ -47,6 +49,9 @@ Below is a list of my published and forthcoming papers:
 
 [“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
 
+**Policy Report:** 
+
+["The State of Federalism in Nepal: An assessment"] [200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
 
 [1]: https://doi.org/10.1002/jid.3406
 [2]: https://doi.org/10.1016/j.renene.2018.06.009
@@ -65,7 +70,9 @@ Below is a list of my published and forthcoming papers:
 [15]: https://doi.org/10.1002/hec.4598
 [16]: http://doi.org/10.1111/rode.12953
 [17]: https://doi.org/10.1016/j.ijdrr.2022.103359
+[18]: https://doi.org/10.3390/su15097031
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
 [102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
 [103]:https://www.medscape.com/viewarticle/982436
+[200]: https://www.cipe.org/wp-content/uploads/2022/11/THE-STATE-OF-FEDERALISM-IN-NEPAL_2022.pdf
