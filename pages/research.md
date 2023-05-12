@@ -49,7 +49,7 @@ Below is a list of my published and forthcoming papers:
 
 [“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
 
-**Policy Report:** 
+**Policy Reports:** 
 
 ["The State of Federalism in Nepal: An assessment"] [200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
 
