@@ -13,6 +13,7 @@ I live in West Fargo, North Dakota with my wife and pet children (two cats and a
 
 
 [Google Scholar link][8] 
+
 [ResearchGate link] [9]
 
 [1]: https://brynathyn.edu/
