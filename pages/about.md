@@ -12,7 +12,8 @@ My research interests are in the fields of Applied Microeconomics, Environmental
 I live in West Fargo, North Dakota with my wife and pet children (two cats and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
 
 
-[Google Scholar link][8] [ResearchGate link] [9]
+[Google Scholar link][8] 
+[ResearchGate link] [9]
 
 [1]: https://brynathyn.edu/
 [2]: http://econ.unm.edu
