@@ -9,7 +9,7 @@ I am an assistant professor of economics in the [Department of Agribusiness and 
 
 My research interests are in the fields of Applied Microeconomics, Environmental Economics, Health Economics, and Political Economy. My research has appeared in peer-reviewed journals such as *Health Economics*, *Public Choice*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Climate and Development*. 
 
-I live in West Fargo, North Dakota with my wife and pet children (two cats and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
+I live in West Fargo, North Dakota with my wife, son, and pet children (a cat and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
 
 
 [Google Scholar link][8] 
