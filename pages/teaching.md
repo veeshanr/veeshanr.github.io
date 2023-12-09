@@ -5,7 +5,7 @@ navbar-index: 2
 title: Teaching
 ---
 
-**Recent Courses**
+**Recently taught courses**
 
 **Public Economics** [Click to Download Syllabus](files/ECON470.pdf)
 
