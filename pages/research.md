@@ -13,6 +13,8 @@ Below is a list of my published and forthcoming papers:
 
 [“On the nature and structure of externalities”][19] (with Pablo Paniagua),*Public Choice*, forthcoming.
 
+[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March),*Public Choice*, forthcoming.
+
 [“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*. [Appendix](files/Katrina Appendix.pdf)
 
 [“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
@@ -77,6 +79,7 @@ Below is a list of my published and forthcoming papers:
 [18]: https://doi.org/10.3390/su15097031
 [19]: https://doi.org/10.1007/s11127-023-01098-1
 [20]: https://doi.org/10.1017/S1744137423000267
+[21]: https://link.springer.com/journal/11127
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
 [102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
