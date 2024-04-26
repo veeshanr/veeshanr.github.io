@@ -13,9 +13,9 @@ Below is a list of my published and forthcoming papers:
 
 [“Governing the global fisheries commons”][22] (with Pablo Paniagua), *Marine Policy*, forthcoming (available as Mercatus Working paper version). 
 
-[“On the nature and structure of externalities”][19] (with Pablo Paniagua),*Public Choice*, 2023.
+[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
 
-[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March),*Public Choice*, forthcoming.
+[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, forthcoming.
 
 [“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2023. [Appendix](files/Katrina Appendix.pdf)
 
@@ -45,7 +45,7 @@ Below is a list of my published and forthcoming papers:
 
 [“Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
 
-[“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara),*Food Security*, 2019.
+[“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara), *Food Security*, 2019.
 
 [“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal”] [1] (with Alok K. Bohara), *Journal of International Development*, 2019.
 
