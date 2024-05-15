@@ -2,7 +2,7 @@
 layout: default
 permalink: /publicwriting
 navbar-index: 3
-title: Public Writing
+title: Media and Public Writing
 ---
 
 **Selected Public Writing**
@@ -22,6 +22,7 @@ title: Public Writing
 
 
 **Podcast and Media**
+
 [``Hayek Program Podcast - Environmental Economics series - Governing the Global Fisheries Commons''][6], with Jordan Lofthouse and Pablo Paniagua.
 
 
