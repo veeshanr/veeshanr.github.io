@@ -21,8 +21,13 @@ title: Public Writing
 [``Economics lessons from Bald and Bankrupt"] [4], NDSU Extension and Ag Research News.
 
 
+**Podcast and Media**
+[``Hayek Program Podcast - Environmental Economics series - Governing the Global Fisheries Commons''][6], with Jordan Lofthouse and Pablo Paniagua.
+
+
 [1]: https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/
 [2]: https://joie-blog.net/the-limits-and-perils-of-the-dichotomous-private-public-taxonomy
 [3]: https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/55669/
 [4]: https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-economics-lessons-from-bald-and-bankrupt
 [5]: https://polycentricity.iasc-commons.org/is-centralization-needed-to-end-the-pandemic-an-essay-by-veeshan-raymajhee-ndsuusa/
+[6]: https://www.mercatus.org/hayekprogram/hayek-program-podcast/environmental-economics-governing-global-fisheries-commons
