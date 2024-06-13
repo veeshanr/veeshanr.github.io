@@ -5,9 +5,9 @@ navbar-index: 0
 title: About Me
 ---
 
-I am an assistant professor of economics in the [Department of Agribusiness and Applied Economics][5] at [North Dakota State University][4]. I am also a faculty fellow at the [Center for the Study of Public Choice and Private Enterprise][6] and a faculty scholar at at the [Sheila and Robert Challey Institute for Global Innovation and Growth at NDSU][7]. 
+I am an (incoming) assistant professor of economics in the [Department of Economics, Applied Statistics, & International Business][1] at [New Mexico State University][2].
 
-I am an applied microeconomist with research interests in Development Economics, Political Economy, Health Economics, and Environmental Economics. I have published over twenty papers in peer-reviewed journals such as *Journal of Comparative Economics*, *Health Economics*, *Public Choice*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Marine Policy*. 
+My fields of interest are Development Economics, Political Economy, Health Economics, and Environmental Economics. I have published over twenty papers in peer-reviewed journals such as *Journal of Comparative Economics*, *Health Economics*, *Public Choice*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Marine Policy*. 
 
 I live in West Fargo, North Dakota with my wife, son, and pet children (a cat and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
 
@@ -16,11 +16,7 @@ I live in West Fargo, North Dakota with my wife, son, and pet children (a cat an
 
 [ResearchGate link] [9]
 
-[1]: https://brynathyn.edu/
-[2]: http://econ.unm.edu
-[4]: https://www.ndsu.edu/
-[5]: https://www.ag.ndsu.edu/agecon
-[6]: https://www.ndsu.edu/centers/pcpe/
-[7]: https://www.ndsu.edu/challeyinstitute/
-[8]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao
-[9]: https://www.researchgate.net/profile/Veeshan-Rayamajhee
+[1]: https://nmsu.edu/
+[2]: https://business.nmsu.edu/academic-departments/easib/index.html
+[3]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao
+[4]: https://www.researchgate.net/profile/Veeshan-Rayamajhee
