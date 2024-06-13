@@ -16,7 +16,7 @@ I live in Las Cruces, Mexico with my wife, son, and pet children (a cat and a do
 
 [ResearchGate link] [4]
 
-[1]: https://nmsu.edu/
-[2]: https://business.nmsu.edu/academic-departments/easib/index.html
+[1]: https://business.nmsu.edu/academic-departments/easib/index.html
+[2]: https://nmsu.edu/
 [3]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao
 [4]: https://www.researchgate.net/profile/Veeshan-Rayamajhee
