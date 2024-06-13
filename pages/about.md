@@ -12,9 +12,9 @@ My fields of interest are Development Economics, Political Economy, Health Econo
 I live in Las Cruces, Mexico with my wife, son, and pet children (a cat and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
 
 
-[Google Scholar link][8] 
+[Google Scholar link][3] 
 
-[ResearchGate link] [9]
+[ResearchGate link] [4]
 
 [1]: https://nmsu.edu/
 [2]: https://business.nmsu.edu/academic-departments/easib/index.html
