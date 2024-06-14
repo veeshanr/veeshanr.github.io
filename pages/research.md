@@ -11,11 +11,15 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Governing the global fisheries commons”][22] (with Pablo Paniagua), *Marine Policy*, forthcoming (available as Mercatus Working paper version). 
-
-[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
+[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, forthcoming.
 
 [“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, forthcoming.
+
+[“Complex externalities: Introduction to the special issue”][24] (with Pablo Paniagua and Ilia Murtazashvili), *Public Choice*, 2024.
+
+[“Governing the global fisheries commons”][22] (with Pablo Paniagua), *Marine Policy*, 2024. 
+
+[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
 
 [“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2023. [Appendix](files/Katrina Appendix.pdf)
 
@@ -83,6 +87,8 @@ Below is a list of my published and forthcoming papers:
 [20]: https://doi.org/10.1017/S1744137423000267
 [21]: https://link.springer.com/journal/11127
 [22]: https://www.mercatus.org/research/working-papers/governing-global-fisheries-commons
+[23]: https://www.sciencedirect.com/journal/journal-of-comparative-economics
+[24]: https://doi.org/10.1007/s11127-024-01176-y
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
 [102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
