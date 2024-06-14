@@ -19,9 +19,9 @@ Below is a list of my published and forthcoming papers:
 
 [“Governing the global fisheries commons”][22] (with Pablo Paniagua), *Marine Policy*, 2024. 
 
-[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
+[“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2024. [Appendix](files/Katrina Appendix.pdf)
 
-[“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2023. [Appendix](files/Katrina Appendix.pdf)
+[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
 
 [“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
 
