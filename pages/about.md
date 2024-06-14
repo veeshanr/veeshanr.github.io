@@ -9,7 +9,7 @@ I am an (incoming) assistant professor of economics in the [Department of Econom
 
 My fields of interest are Development Economics, Political Economy, Health Economics, and Environmental Economics. I have published over twenty papers in peer-reviewed journals such as *Journal of Comparative Economics*, *Health Economics*, *Public Choice*, *Journal of Institutional Economics*, *Review of Development Economics*, *Economics of Disasters and Climate Change*, *Disasters*, *International Journal of Disaster Risk Reduction*, and *Marine Policy*. 
 
-I live in Las Cruces, Mexico with my wife, son, and pet children (a cat and a dog). When the school is not in session, we enjoy hiking, biking, and backpacking.
+I live in Las Cruces, New Mexico with my wife (Stephanie) and son (Boden). When the school is not in session, we enjoy hiking, biking, and backpacking.
 
 
 [Google Scholar link][3] 
