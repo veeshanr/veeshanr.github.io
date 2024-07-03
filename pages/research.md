@@ -11,7 +11,7 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, forthcoming. [Pre-publication version](files/RayamajheePaudel2024_JCE.pdf)
+[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, forthcoming.
 
 [“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, forthcoming.
 
