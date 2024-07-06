@@ -87,7 +87,7 @@ Below is a list of my published and forthcoming papers:
 [20]: https://doi.org/10.1017/S1744137423000267
 [21]: https://link.springer.com/journal/11127
 [22]: https://doi.org/10.1016/j.marpol.2024.106182
-[23]: https://www.sciencedirect.com/journal/journal-of-comparative-economics
+[23]: https://doi.org/10.1016/j.jce.2024.06.005
 [24]: https://doi.org/10.1007/s11127-024-01176-y
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
