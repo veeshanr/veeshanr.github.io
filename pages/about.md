@@ -5,7 +5,7 @@ navbar-index: 0
 title: About Me
 ---
 
-I am an (incoming) assistant professor of economics in the [Department of Economics, Applied Statistics, & International Business][1] at [New Mexico State University][2].
+I am an assistant professor of economics in the [Department of Economics, Applied Statistics, & International Business][1] at [New Mexico State University][2].
 
 My fields of interest are Development Economics, Political Economy, Health Economics, and Environmental Economics. My research examines societal responses to natural disasters and other shocks. My current projects focus on three areas: 1) the relationship between natural disasters and social change, 2) economic consequences of political crises, and 3) polycentric governance of externalities. I have published over twenty papers in peer-reviewed journals such as *Journal of Comparative Economics*, *Health Economics*, *Public Choice*, *Journal of Institutional Economics*, and *Review of Development Economics*.
 
