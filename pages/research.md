@@ -85,7 +85,7 @@ Below is a list of my published and forthcoming papers:
 [18]: https://doi.org/10.3390/su15097031
 [19]: https://doi.org/10.1007/s11127-023-01098-1
 [20]: https://doi.org/10.1017/S1744137423000267
-[21]: https://link.springer.com/journal/11127
+[21]: https://doi.org/10.1007/s11127-024-01218-5
 [22]: https://doi.org/10.1016/j.marpol.2024.106182
 [23]: https://doi.org/10.1016/j.jce.2024.06.005
 [24]: https://doi.org/10.1007/s11127-024-01176-y
