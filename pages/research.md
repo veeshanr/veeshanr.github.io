@@ -11,9 +11,11 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, forthcoming.
+[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
-[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, forthcoming.
+[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2024.
+
+[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Ray March, Glenn Furton, and Ryan Yonk), *Public Health*, forthcoming.
 
 [“Complex externalities: Introduction to the special issue”][24] (with Pablo Paniagua and Ilia Murtazashvili), *Public Choice*, 2024.
 
@@ -89,6 +91,7 @@ Below is a list of my published and forthcoming papers:
 [22]: https://doi.org/10.1016/j.marpol.2024.106182
 [23]: https://doi.org/10.1016/j.jce.2024.06.005
 [24]: https://doi.org/10.1007/s11127-024-01176-y
+[25]: https://www.sciencedirect.com/journal/public-health
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
 [102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
