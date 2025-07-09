@@ -11,13 +11,14 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-“Does economic liberalization increase government accountability?” (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
+“Does economic liberalization increase government accountability?” (with Raymond March), *Journal of Economic Behavior & Organization*, 2025 (forthcoming). 
+
+[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2025.
+
+[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Ray March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
 
 [“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
-[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2024.
-
-[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Ray March, Glenn Furton, and Ryan Yonk), *Public Health*, forthcoming.
 
 [“Complex externalities: Introduction to the special issue”][24] (with Pablo Paniagua and Ilia Murtazashvili), *Public Choice*, 2024.
 
