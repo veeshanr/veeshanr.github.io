@@ -11,6 +11,8 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
+“Does economic liberalization increase government accountability?” (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
+
 [“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
 [“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2024.
