@@ -11,7 +11,7 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025 (forthcoming). 
+[“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
 
 [“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2025.
 
