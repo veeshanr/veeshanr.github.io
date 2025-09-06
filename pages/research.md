@@ -15,9 +15,9 @@ Below is a list of my published and forthcoming papers:
 
 [“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
 
-[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Ray March), *Public Choice*, 2025.
+[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Raymond March), *Public Choice*, 2025.
 
-[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Ray March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
+[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
 
 [“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
@@ -28,7 +28,7 @@ Below is a list of my published and forthcoming papers:
 
 [“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2024. [Appendix](files/Katrina Appendix.pdf)
 
-[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2023.
+[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2024.
 
 [“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
 
