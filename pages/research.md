@@ -11,7 +11,7 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Because I Got High? Recreational Marijuana Legalization's Impact on Opioid Overdose Deaths”][27] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Southern Economic Journal*,2025.
+[“Because I Got High? Recreational Marijuana Legalization's Impact on Opioid Overdose Deaths”][27] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Southern Economic Journal*, 2025.
 
 [“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
 
