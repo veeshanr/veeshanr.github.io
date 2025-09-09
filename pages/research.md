@@ -11,13 +11,13 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
-[“Because I Got High? Recreational Marijuana Legalization's Impact on Opioid Overdose Deaths”][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
+[“Because I hot high? Recreational marijuana legalization's impact on opioid overdose deaths”][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
 
 [“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
 
-[“Max-U? Considering Humanomics in Public Policy”][21] (with Ryan Yonk, Robertas Bakula, and Raymond March), *Public Choice*, 2025.
+[“Max-U? Considering humanomics in public policy”][21] (with Ryan Yonk, Robertas Bakula, and Raymond March), *Public Choice*, 2025.
 
-[“Recreational Marijuana Legalization’s Impact on Opioid Death Rates: A Synthetic Control Approach”][25] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
+[“Recreational marijuana legalization’s impact on opioid death rates: A synthetic control approach”][25] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
 
 [“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
@@ -30,31 +30,31 @@ Below is a list of my published and forthcoming papers:
 
 [“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2024.
 
-[“Impacts of Climate Change on Food Utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
+[“Impacts of climate change on food utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
 
 ["The tragedy of the nurdles: Governing global externalities"] [18] (with Ilia Murtazashvili and Keith Taylor), *Sustainability*, 2023. 
 
-[“Cloudy with a Chance of Munchies: Assessing the Impact of Recreational Marijuana Legalization on Obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, 2022. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
+[“Cloudy with a chance of munchies: Assessing the impact of recreational marijuana legalization on obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, 2022. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
 
-[“Coproduction and the Crafting of Cognitive Institutions during the COVID-19 Pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
+[“Coproduction and the crafting of cognitive institutions during the COVID-19 pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
 
-[“A Polycentric Approach for Pandemic Governance: Nested Externalities and Coproduction Challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
+[“A polycentric approach for pandemic governance: Nested externalities and coproduction challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
 
 [“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
 
-[“Perception of Climate Change and the Demand for Weather-Index Microinsurance: Evidence from a Contingent Valuation Survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2022.
+[“Perception of climate change and the demand for weather-index microinsurance: Evidence from a contingent valuation survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2022.
 
 [“Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
 
 [“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, 2021.
 
-[“Social Capital, Trust, and Collective Action in Post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, 2021.
+[“Social capital, trust, and collective action in post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, 2021.
 
 [“The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity”] [7] (with Pablo Paniagua), *Journal of Institutional Economics*, 2021.
 
 [“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2021.
 
-[“Ex-post Coping responses and Post-disaster Resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
+[“Ex-post coping responses and post-disaster resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
 
 [“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara), *Food Security*, 2019.
 
@@ -66,11 +66,11 @@ Below is a list of my published and forthcoming papers:
 
 **Contributions to Edited Volumes:** 
 
-[“On the Dynamic Nature of Goods: Applications in Post-Disaster Contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
+[“On the dynamic nature of goods: Applications in post-disaster contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
 
 **Policy Reports:** 
 
-["The State of Federalism in Nepal: An assessment"] [200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
+["The state of federalism in Nepal: An assessment"] [200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
 
 [1]: https://doi.org/10.1002/jid.3406
 [2]: https://doi.org/10.1016/j.renene.2018.06.009
