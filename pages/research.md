@@ -11,6 +11,8 @@ Below is a list of my published and forthcoming papers:
 
 **Peer-reviewed research articles:** 
 
+[“The Anatomy of Externalities”][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2025.
+
 [“Because I hot high? Recreational marijuana legalization's impact on opioid overdose deaths”][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
 
 [“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
@@ -99,6 +101,7 @@ Below is a list of my published and forthcoming papers:
 [25]: https://doi.org/10.1016/j.puhe.2024.12.047
 [26]: https://doi.org/10.1016/j.jebo.2025.107143
 [27]: https://doi.org/10.1002/soej.12797
+[28]: https://academic.oup.com/cje
 [100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
 [101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
 [102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
