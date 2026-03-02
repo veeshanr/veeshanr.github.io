@@ -3,8 +3,7 @@
    ============================================================ */
 
 .site-wrapper {
-  display: grid;
-  grid-template-columns: var(--sidebar-width) 1fr;
+  display: flex;
   min-height: 100vh;
 }
 
@@ -13,24 +12,21 @@
    ============================================================ */
 
 .sidebar {
-  position: fixed;
-  top: 0;
-  left: 0;
   width: var(--sidebar-width);
+  flex-shrink: 0;
+  position: sticky;
+  top: 0;
   height: 100vh;
   background: var(--sidebar-bg);
   border-right: 1px solid var(--sidebar-border);
   overflow-y: auto;
-  z-index: 100;
-  transition: transform 0.25s ease;
 }
-
 
 .sidebar-inner {
   display: flex;
   flex-direction: column;
   padding: 36px 24px;
-  height: 100%;
+  min-height: 100vh;
   box-sizing: border-box;
   gap: 28px;
 }
@@ -129,11 +125,12 @@
    ============================================================ */
 
 .main-content {
-  grid-column: 2;
+  flex: 1;
   padding: 52px 64px 48px;
   min-height: 100vh;
   background: var(--bg-light);
   box-sizing: border-box;
+  min-width: 0;
 }
 
 .main-content article {
@@ -151,12 +148,8 @@
 }
 
 /* ============================================================
-   ABOUT PAGE — internal photo + bio grid
+   ABOUT PAGE — photo floats left, text wraps around it
    ============================================================ */
-
-.about-grid {
-  display: block;
-}
 
 .about-photo {
   float: left;
@@ -207,11 +200,16 @@
   }
 
   .sidebar {
-    transform: translateX(-100%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
     width: 260px;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 100;
   }
 
-  /* JS adds .shown class on hamburger click */
   .sidebar.shown {
     transform: translateX(0);
   }
@@ -221,20 +219,16 @@
   }
 
   .main-content {
-    margin-left: 0;
     padding: 60px 24px 32px;
   }
 
-  .main-content article {
-    max-width: 100%;
-  }
-
-  .about-grid {
-    grid-template-columns: 1fr;
-  }
-
   .about-photo {
-    max-width: 150px;
+    float: none;
+    margin: 0 0 24px 0;
+  }
+
+  .about-photo img {
+    width: 150px;
   }
 }
 
@@ -248,7 +242,6 @@
     display: none;
   }
   .main-content {
-    margin-left: 0;
     padding: 0;
   }
 }
