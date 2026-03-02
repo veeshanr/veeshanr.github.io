@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /publicwriting
+permalink: /public
 navbar-index: 3
 title: Media and Public Writing
 ---
