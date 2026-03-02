@@ -148,25 +148,21 @@
 }
 
 /* ============================================================
-   ABOUT PAGE — photo floats left, text wraps around it
+   ABOUT PAGE — photo left column, bio right column, no wrap
    ============================================================ */
 
-.about-photo {
-  float: left;
-  margin: 4px 36px 24px 0;
+.about-grid {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 40px;
+  align-items: start;
 }
 
 .about-photo img {
-  width: 200px;
+  width: 100%;
   height: auto;
   border-radius: 4px;
   display: block;
-}
-
-.about-bio::after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 /* ============================================================
@@ -222,9 +218,8 @@
     padding: 60px 24px 32px;
   }
 
-  .about-photo {
-    float: none;
-    margin: 0 0 24px 0;
+  .about-grid {
+    grid-template-columns: 1fr;
   }
 
   .about-photo img {
