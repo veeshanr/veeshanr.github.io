@@ -140,14 +140,15 @@
 .main-content {
   grid-column: 2;
   margin-left: var(--sidebar-width);
-  padding: 52px 60px 48px;
+  padding: 52px 72px 48px;
   min-height: 100vh;
   background: var(--bg-light);
   box-sizing: border-box;
+  max-width: 860px;
 }
 
 .main-content article {
-  max-width: var(--content-max);
+  width: 100%;
 }
 
 .page-title {
@@ -166,14 +167,14 @@
 
 .about-grid {
   display: grid;
-  grid-template-columns: 170px 1fr;
-  gap: 36px;
+  grid-template-columns: 220px 1fr;
+  gap: 48px;
   align-items: start;
 }
 
 .about-photo img {
-  width: 170px;
-  height: 210px;
+  width: 220px;
+  height: 275px;
   object-fit: cover;
   object-position: center top;
   border-radius: 4px;
