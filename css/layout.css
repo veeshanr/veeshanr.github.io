@@ -140,11 +140,11 @@
 .main-content {
   grid-column: 2;
   margin-left: var(--sidebar-width);
-  padding: 52px 72px 48px;
+  padding: 52px 64px 48px;
   min-height: 100vh;
   background: var(--bg-light);
   box-sizing: border-box;
-  max-width: 860px;
+  width: calc(100% - var(--sidebar-width));
 }
 
 .main-content article {
@@ -166,19 +166,25 @@
    ============================================================ */
 
 .about-grid {
-  display: grid;
-  grid-template-columns: 220px 1fr;
-  gap: 48px;
-  align-items: start;
+  display: block;
+}
+
+.about-photo {
+  float: left;
+  margin: 4px 36px 24px 0;
 }
 
 .about-photo img {
-  width: 220px;
-  height: 275px;
-  object-fit: cover;
-  object-position: center top;
+  width: 200px;
+  height: auto;
   border-radius: 4px;
   display: block;
+}
+
+.about-bio::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* ============================================================

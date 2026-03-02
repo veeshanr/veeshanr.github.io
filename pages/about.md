@@ -23,5 +23,5 @@ He lives in Las Cruces with his wife Stephanie and their son Boden. He hikes and
 
 [scholar]: https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en
 [cv]: /files/CV.pdf
-[orcid]: https://orcid.org/[YOUR-ORCID-ID]
+[orcid]: https://orcid.org/0000-0002-2117-7337
 [rg]: https://www.researchgate.net/profile/Veeshan-Rayamajhee
