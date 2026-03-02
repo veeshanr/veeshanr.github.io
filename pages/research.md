@@ -5,74 +5,92 @@ navbar-index: 1
 title: Research
 ---
 
- [Download CV](files/CV.pdf)
+[Download CV][cv]
 
-Below is a list of my published and forthcoming papers:
+## Working Papers
 
-**Peer-reviewed research articles:** 
+- "Democracy and pro-market sentiments" — *Revise & Resubmit, Journal of Economic Behavior & Organization*
 
-[“The Anatomy of Externalities”][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2025.
+- "The sources of researcher variation in economics" (with N. Huntington-Klein et al.) — *Revise & Resubmit, Journal of Economic Literature*
 
-[“Because I hot high? Recreational marijuana legalization's impact on opioid overdose deaths”][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
+- "Consequences of Regicide" — *Revise & Resubmit, Journal of Development Studies*
 
-[“Does economic liberalization increase government accountability?”][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025. 
+- "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Under Review*
 
-[“Max-U? Considering humanomics in public policy”][21] (with Ryan Yonk, Robertas Bakula, and Raymond March), *Public Choice*, 2025.
+- "Gender gap in domestic labor in post-disaster contexts" (with R. March and M. Shawon) — *Under Review*
 
-[“Recreational marijuana legalization’s impact on opioid death rates: A synthetic control approach”][25] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
+- "Unbundling the global commons" — *Under Review*
 
-[“The social behavior of immigrants during natural disasters: Lessons from the United States”][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
+---
 
+## Published Research
 
-[“Complex externalities: Introduction to the special issue”][24] (with Pablo Paniagua and Ilia Murtazashvili), *Public Choice*, 2024.
+["The Anatomy of Externalities"][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2025.
 
-[“Governing the global fisheries commons”][22] (with Pablo Paniagua), *Marine Policy*, 2024. 
+["Because I got high? Recreational marijuana legalization's impact on opioid overdose deaths"][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
 
-[“Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions”] [20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2024. [Appendix](files/Katrina Appendix.pdf)
+["Does economic liberalization increase government accountability?"][26] (with Raymond March), *Journal of Economic Behavior & Organization*, 2025.
 
-[“On the nature and structure of externalities”][19] (with Pablo Paniagua), *Public Choice*, 2024.
+["Max-U? Considering humanomics in public policy"][21] (with Ryan Yonk, Robertas Bakula, and Raymond March), *Public Choice*, 2025.
 
-[“Impacts of climate change on food utilization in Nepal”] [16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
+["Recreational marijuana legalization's impact on opioid death rates: A synthetic control approach"][25] (with Elisha Denkyirah, Raymond March, Glenn Furton, and Ryan Yonk), *Public Health*, 2025.
 
-["The tragedy of the nurdles: Governing global externalities"] [18] (with Ilia Murtazashvili and Keith Taylor), *Sustainability*, 2023. 
+["The social behavior of immigrants during natural disasters: Lessons from the United States"][23] (with Jayash Paudel), *Journal of Comparative Economics*, 2024.
 
-[“Cloudy with a chance of munchies: Assessing the impact of recreational marijuana legalization on obesity”] [15] (with Raymond March and Glenn Furton), *Health Economics*, 2022. **Media coverage:** [WebMD][100]   [Leafly][101] [MarijuanaMoment][102] [Medscape][103]
+["Complex externalities: Introduction to the special issue"][24] (with Pablo Paniagua and Ilia Murtazashvili), *Public Choice*, 2024.
 
-[“Coproduction and the crafting of cognitive institutions during the COVID-19 pandemic”] [14] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
+["Governing the global fisheries commons"][22] (with Pablo Paniagua), *Marine Policy*, 2024.
 
-[“A polycentric approach for pandemic governance: Nested externalities and coproduction challenges”] [13] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
+["Shock me like a hurricane: How Hurricane Katrina changed Louisiana's formal and informal institutions"][20] (with Raymond March and Corbin Clark), *Journal of Institutional Economics*, 2024. [Appendix][katrina-app]
 
-[“Social entrepreneurship, co-production, and post-disaster recovery”] [6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
+["On the nature and structure of externalities"][19] (with Pablo Paniagua), *Public Choice*, 2024.
 
-[“Perception of climate change and the demand for weather-index microinsurance: Evidence from a contingent valuation survey in Nepal”] [12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2022.
+["Impacts of climate change on food utilization in Nepal"][16] (with Wenmei Guo and Alok K. Bohara), *Review of Development Economics*, 2023.
 
-[“Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal”] [17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
+["The tragedy of the nurdles: Governing global externalities"][18] (with Ilia Murtazashvili and Keith Taylor), *Sustainability*, 2023.
 
-[“Governing nested externalities during a pandemic: Social distancing as a co-production problem”] [11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, 2021.
+["Cloudy with a chance of munchies: Assessing the impact of recreational marijuana legalization on obesity"][15] (with Raymond March and Glenn Furton), *Health Economics*, 2022. <span class="media-links">Media: [WebMD][100] · [Leafly][101] · [MarijuanaMoment][102] · [Medscape][103]</span>
 
-[“Social capital, trust, and collective action in post-earthquake Nepal”] [10] (with Alok K. Bohara), *Natural Hazards*, 2021.
+["Coproduction and the crafting of cognitive institutions during the COVID-19 pandemic"][14] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
 
-[“The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity”] [7] (with Pablo Paniagua), *Journal of Institutional Economics*, 2021.
+["A polycentric approach for pandemic governance: Nested externalities and coproduction challenges"][13] (with Pablo Paniagua), *Journal of Institutional Economics*, 2022.
 
-[“The impact of climate change on rice production in Nepal”] [9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2021.
+["Social entrepreneurship, co-production, and post-disaster recovery"][6] (with Virgil H. Storr and Alok K. Bohara), *Disasters*, 2022.
 
-[“Ex-post coping responses and post-disaster resilience: A case from the 2015 Nepal earthquake”] [5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
+["Perception of climate change and the demand for weather-index microinsurance: Evidence from a contingent valuation survey in Nepal"][12] (with Wenmei Guo and Alok K. Bohara), *Climate and Development*, 2022.
 
-[“Do voluntary associations reduce hunger? An empirical exploration of the social  capital- food security nexus among food impoverished households in western Nepal”] [4] (with Alok K. Bohara), *Food Security*, 2019.
+["Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal"][17] (with M-Adnan Shahid and Alok K. Bohara), *International Journal of Disaster Risk Reduction*, 2022.
 
-[“Natural disaster damages and their link to coping strategy choices: Field survey findings from post- earthquake Nepal”] [1] (with Alok K. Bohara), *Journal of International Development*, 2019.
+["Governing nested externalities during a pandemic: Social distancing as a co-production problem"][11] (with Shikhar Shrestha and Pablo Paniagua), *Cosmos+Taxis*, 2021.
 
-[“An Iron Triangle ROI Model for Healthcare”] [3] (with D. van der Goes, N. Edwardson, C. Hollis, & D. Hunter), *ClinicoEconomics and Outcomes Research*, 2019.
+["Social capital, trust, and collective action in post-earthquake Nepal"][10] (with Alok K. Bohara), *Natural Hazards*, 2021.
 
-[“Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund”][2] (with Aakrit Joshi), *Renewable Energy*, 2018.
+["The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity"][7] (with Pablo Paniagua), *Journal of Institutional Economics*, 2021.
 
-**Contributions to Edited Volumes:** 
+["The impact of climate change on rice production in Nepal"][9] (with Wenmei Guo and Alok K. Bohara), *Economics of Disasters and Climate Change*, 2021.
 
-[“On the dynamic nature of goods: Applications in post-disaster contexts”] [8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
+["Ex-post coping responses and post-disaster resilience: A case from the 2015 Nepal earthquake"][5] (with Alok K. Bohara and Virgil H. Storr), *Economics of Disasters and Climate Change*, 2020.
 
-**Policy Reports:** 
+["Do voluntary associations reduce hunger? An empirical exploration of the social capital–food security nexus among food impoverished households in western Nepal"][4] (with Alok K. Bohara), *Food Security*, 2019.
 
-["The state of federalism in Nepal: An assessment"] [200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
+["Natural disaster damages and their link to coping strategy choices: Field survey findings from post-earthquake Nepal"][1] (with Alok K. Bohara), *Journal of International Development*, 2019.
+
+["An Iron Triangle ROI Model for Healthcare"][3] (with D. van der Goes, N. Edwardson, C. Hollis, and D. Hunter), *ClinicoEconomics and Outcomes Research*, 2019.
+
+["Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund"][2] (with Aakrit Joshi), *Renewable Energy*, 2018.
+
+---
+
+## Contributions to Edited Volumes
+
+["On the dynamic nature of goods: Applications in post-disaster contexts"][8] in *Exploring the Political Economy and Social Philosophy of Vincent and Elinor Ostrom*, 2020.
+
+## Policy Reports
+
+["The state of federalism in Nepal: An assessment"][200] (with Jennifer Murtazashvili and Aditi Upadhyaya), *Center for International Private Enterprise*, 2022.
+
+[cv]: /files/CV.pdf
+[katrina-app]: /files/Katrina Appendix.pdf
 
 [1]: https://doi.org/10.1002/jid.3406
 [2]: https://doi.org/10.1016/j.renene.2018.06.009
@@ -102,8 +120,8 @@ Below is a list of my published and forthcoming papers:
 [26]: https://doi.org/10.1016/j.jebo.2025.107143
 [27]: https://doi.org/10.1002/soej.12797
 [28]: https://doi.org/10.1093/cje/beag003
-[100]:https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis?fbclid=IwAR1hr4-fG-pLR3syYG_dBfun2H4FwiHq4NcRTEC0pYHR95XTacGtDYPv_wg
-[101]:https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates?fbclid=IwAR0pYH3TNE5fV2XrbaETs3J4crRR93v7FOxQIxepSgbeFG4XFLTFKzBcUks
-[102]:https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/?fbclid=IwAR35SUK9xHNf9t6c4DMNod0LMNQVCfOvyKBWZLfDVGLnmdn_2wRuM99Wl5U
-[103]:https://www.medscape.com/viewarticle/982436
+[100]: https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis
+[101]: https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates
+[102]: https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/
+[103]: https://www.medscape.com/viewarticle/982436
 [200]: https://www.cipe.org/wp-content/uploads/2022/11/THE-STATE-OF-FEDERALISM-IN-NEPAL_2022.pdf

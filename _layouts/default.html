@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-{% include head.html %}
-
-<body>
-    <div class="wrap">
-        {% include header.html %}
-        <main class="card">
-            <h1 id="{{page.title}}"> {{ page.title }} </h1>
-            <article>
-                {{ content }}
-            </article>
-        </main>
-        {% include footer.html %}
-    </div>
-</body>
-
-</html>
+---
+layout: sidebar
+---
+{{ content }}

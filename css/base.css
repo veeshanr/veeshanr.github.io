@@ -1,154 +1,154 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Material+Icons');
+
 :root {
-    --darkest: #222;
-    --darker: #2a2a2a;
-    --dark: #333;
-    --gray-dark: #666;
-    --gray: #777;
-    --gray-light: #888;
-    --light: #f7f7f7;
-    --lighter: #fcfcfc;
-    --lightest: #ffffff;
-    --blue: #006DCE;
-    --blue-light: #4af;
-    --bg: var(--light);
-    --bg-light: var(--lighter);
-    --bg-lighter: var(--lightest);
-    --fg: var(--darkest);
-    --fg-light: var(--gray);
-    --desktop: 960px;
-    --gap: 20px;
-    --pad: 10px;
-    --font: 16px/1.5 'Noto Sans', sans-serif;
+  /* Layout */
+  --sidebar-width: 220px;
+  --desktop: 1100px;
+  --gap: 20px;
+  --pad: 10px;
+  --content-max: 68ch;
+
+  /* Typography */
+  --font: 16px/1.6 'Inter', sans-serif;
+  --font-heading: 'Lora', Georgia, serif;
+
+  /* Base colors */
+  --darkest:    #1e1e1e;
+  --darker:     #2a2a2a;
+  --dark:       #333333;
+  --gray-dark:  #555555;
+  --gray:       #777777;
+  --gray-light: #999999;
+  --light:      #f5f4f0;
+  --lighter:    #faf9f7;
+  --lightest:   #ffffff;
+
+  /* Semantic */
+  --bg:             var(--lighter);
+  --bg-light:       var(--lightest);
+  --bg-lighter:     var(--lightest);
+  --fg:             var(--darkest);
+  --fg-light:       var(--gray-dark);
+  --sidebar-bg:     var(--light);
+  --sidebar-fg:     var(--darker);
+  --sidebar-border: #dddbd6;
+
+  /* Accent — Deep slate/teal */
+  --accent:       #2D6A7F;
+  --accent-dark:  #1d4f60;
+  --link:         #2D6A7F;
+  --link-hover:   #1d4f60;
+
+  /* Legacy aliases */
+  --blue:       #2D6A7F;
+  --blue-light: #5aa8c0;
 }
 
-*::-moz-focus-inner {
-    border: 0;
-}
+/* ============================================================
+   BASE
+   ============================================================ */
 
-*:focus {
-    outline: 0;
-    border-bottom-color: var(--blue);
-    border-bottom-style: solid;
-}
+*::-moz-focus-inner { border: 0; }
+*:focus { outline: 0; }
 
 body {
-    margin: 0;
-    background-color: var(--bg);
-    font: var(--font);
-    color: var(--fg);
+  margin: 0;
+  background-color: var(--bg);
+  font: var(--font);
+  color: var(--fg);
 }
 
 body.animate {
-    transition: background-color 0.4s, color 0.4s;
+  transition: background-color 0.4s, color 0.4s;
 }
+
+/* ============================================================
+   DARK MODE
+   ============================================================ */
 
 body.dark-theme {
-    --bg: var(--darkest);
-    --bg-light: var(--darker);
-    --bg-lighter: var(--dark);
-    --fg: var(--light);
-    --fg-light: var(--gray-light);
+  --bg:             #1a1a18;
+  --bg-light:       #222220;
+  --bg-lighter:     #2a2a28;
+  --fg:             #e8e6e2;
+  --fg-light:       #a8a8a4;
+  --sidebar-bg:     #1e1e1c;
+  --sidebar-fg:     #d4d2ce;
+  --sidebar-border: #333330;
+  --link:           #5aa8c0;
+  --link-hover:     #7fcfe0;
+  --blue:           #5aa8c0;
+  --blue-light:     #7fcfe0;
 }
 
-p:last-child {
-    margin-bottom: 0;
+/* ============================================================
+   TYPOGRAPHY
+   ============================================================ */
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  margin: 0;
 }
 
-h1,
-h2 {
-	font-weight: normal;
-}
+h1 { font-size: 2rem;  margin-bottom: 1.5rem; }
+h2 { font-size: 1.4rem; margin-bottom: 1rem; margin-top: 2rem; }
+h3 { font-size: 1.1rem; margin-bottom: 0.75rem; margin-top: 1.5rem; font-weight: normal; font-style: italic; }
 
-h1 {
-    font-size: 2em;
-    margin-bottom: 1.5rem;
-}
+p { margin: 0 0 1.25rem; }
+p:last-child { margin-bottom: 0; }
 
 hr {
-    border: 0;
-    border-top: 2px solid var(--bg-lighter);
+  border: 0;
+  border-top: 1px solid var(--sidebar-border);
+  margin: 2rem 0;
 }
 
-blockquote {
-    padding: var(--pad);
-    padding-left: var(--gap);
-    margin: var(--gap);
-    background-color: var(--bg);
-    border-left: 5px solid var(--bg-lighter);
-}
+/* ============================================================
+   LINKS
+   ============================================================ */
 
 a {
-    color: var(--blue);
-    text-decoration: none;
-    border-bottom: 2px dotted transparent;
-}
-
-.dark-theme a {
-    color: var(--blue-light);
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;
+  transition: color 0.15s, border-color 0.15s;
 }
 
 a:hover {
-    border-bottom-color: var(--blue);
+  color: var(--link-hover);
+  border-bottom-color: var(--link-hover);
 }
 
-nav {
-    height: 100%;
-    position: relative;
+/* ============================================================
+   MISC ELEMENTS
+   ============================================================ */
+
+blockquote {
+  padding: var(--pad) var(--gap);
+  margin: var(--gap) 0;
+  border-left: 3px solid var(--accent);
+  color: var(--fg-light);
 }
 
-nav ul.card {
-    padding: 0;
-}
+address { font-style: normal; }
+img { max-width: 100%; }
 
-nav li,
-nav a {
-    display: block;
-}
-
-nav a {
-    text-decoration: none;
-    font-family: var(--stylized);
-    font-weight: bold;
-    color: var(--blue);
-    line-height: 1;
-    font-size: 1.2em;
-    border-bottom: 5px solid transparent;
-    padding: var(--gap);
-    padding-bottom: calc(var(--gap) - 5px);
-}
-
-nav a.active,
-nav a.active:hover {
-    color: var(--blue);
-    border-bottom-color: var(--blue);
-}
-
-nav a:hover {
-    text-decoration: none;
-    border-bottom-color: var(--fg-light);
-}
-
-nav button i.material-icons {
-    display: block;
-}
+/* ============================================================
+   FOOTER
+   ============================================================ */
 
 footer {
-    padding: var(--gap);
-    padding-bottom: calc(var(--gap) - 4px);
-    border-bottom: 4px solid var(--bg-lighter);
+  margin-top: 48px;
+  padding-top: var(--gap);
+  border-top: 1px solid var(--sidebar-border);
+  font-size: 0.85rem;
+  color: var(--gray);
+  display: flex;
+  justify-content: space-between;
 }
 
-.animate footer {
-    transition: border-bottom-color 0.4s;
-}
-
-footer p {
-    margin: 0;
-    line-height: 1;
-}
-
-address {
-    font-style: normal;
-}
+footer p { margin: 0; }
+footer a { color: var(--gray); border-bottom: none; }
+footer a:hover { color: var(--link-hover); }

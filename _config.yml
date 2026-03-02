@@ -1,10 +1,8 @@
 title: Veeshan Rayamajhee
 email: veeshan@rayamajhee.com
-description: >
-    Veeshan Rayamajhee's personal website.
+description: "Veeshan Rayamajhee — Assistant Professor of Economics at NMSU. Research in development economics, political economy, and institutional economics."
 url: "https://veeshan.rayamajhee.com"
 username: vrayamajhee
-google_analytics: UA-40525098-1
 
 # Build settings
 markdown: kramdown

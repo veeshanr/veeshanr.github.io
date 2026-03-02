@@ -1,25 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-{% include head.html %}
-
-<body>
-    <div class="wrap">
-        {% include header.html %}
-        <main class="card about-page">
-            <h1 id="{{page.title}}"> {{ site.title }} </h1>
-            <section>
-                <aside>
-					<img src="/img/Photo.jpg" alt="Profile Picture">
-                    {% include contact.html %}
-                </aside>
-                <article>
-                    {{ content }}
-                </article>
-            </section>
-        </main>
-        {% include footer.html %}
-    </div>
-</body>
-
-</html>
+---
+layout: sidebar
+---
+<div class="about-grid">
+  <div class="about-photo">
+    <img src="/img/profile.jpg" alt="Veeshan Rayamajhee">
+  </div>
+  <div class="about-bio">
+    {{ content }}
+  </div>
+</div>
