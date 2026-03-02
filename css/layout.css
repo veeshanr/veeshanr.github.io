@@ -222,8 +222,8 @@
     grid-template-columns: 1fr;
   }
 
-  .about-photo img {
-    width: 150px;
+  .about-photo {
+    max-width: 260px;
   }
 }
 
