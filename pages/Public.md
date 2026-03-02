@@ -2,29 +2,24 @@
 layout: default
 permalink: /public
 navbar-index: 3
-title: Media and Public Writing
+title: Outreach
 ---
 
 **Selected Public Writing**
 
-[``Is Centralization Needed to End the Pandemic?"][5], Polycentricity Network.
+["Is Centralization Needed to End the Pandemic?"][5], Polycentricity Network.
 
-[``Elinor Ostrom and the Contestable Nature of Goods"] [1], King's College London Center for the Study of Governance and Society Blog (with Pablo Paniagua).
+["Elinor Ostrom and the Contestable Nature of Goods"][1], King's College London Center for the Study of Governance and Society Blog (with Pablo Paniagua).
 
+["The limits and perils of the dichotomous private-public taxonomy"][2], JOIE Blog (with Pablo Paniagua).
 
-[``The limits and perils of the dichotomous private-public taxonomy"] [2] , JOIE Blog (with Pablo Paniagua). 
+["The Logic of Collective Climate Action"][3], NDSU Center for the Study of Public Choice and Private Enterprise Blog.
 
-
-[``The Logic of Collective Climate Action"][3], NDSU Center for the Study of Public Choice and Private Enterprise Blog.
-
-
-[``Economics lessons from Bald and Bankrupt"] [4], NDSU Extension and Ag Research News.
-
+["Economics lessons from Bald and Bankrupt"][4], NDSU Extension and Ag Research News.
 
 **Podcast and Media**
 
-[``Hayek Program Podcast - Environmental Economics series - Governing the Global Fisheries Commons''][6], with Jordan Lofthouse and Pablo Paniagua.
-
+["Hayek Program Podcast — Environmental Economics series — Governing the Global Fisheries Commons"][6], with Jordan Lofthouse and Pablo Paniagua.
 
 [1]: https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/
 [2]: https://joie-blog.net/the-limits-and-perils-of-the-dichotomous-private-public-taxonomy
