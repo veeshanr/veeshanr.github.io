@@ -9,7 +9,7 @@ title: Teaching
 
 **Economic Development of Latin America** (ECON 325v) — Spring 2026
 
-**International Business: Asia** (IB 398) — Spring 2026
+**International Business and Economic Environments: Asia** (IB 398) — Spring 2026
 
 ---
 
