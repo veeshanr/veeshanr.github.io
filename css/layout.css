@@ -172,7 +172,10 @@
 }
 
 .about-photo img {
-  width: 100%;
+  width: 170px;
+  height: 210px;
+  object-fit: cover;
+  object-position: center top;
   border-radius: 4px;
   display: block;
 }
