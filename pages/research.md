@@ -21,6 +21,8 @@ title: Research
 
 - "Unbundling the global commons" — *Under Review*
 
+- "Governing externalities with consent" (with Jamal Mamkhezri) — *Under Review*
+
 ---
 
 ## Published Research
