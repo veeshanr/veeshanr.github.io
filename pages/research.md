@@ -7,7 +7,8 @@ title: Research
 
 [Download CV][cv]
 
-## Working Papers
+## Selected Working Papers
+*Completed drafts available upon request*
 
 - "Democracy and pro-market sentiments" — *Revise & Resubmit, Journal of Economic Behavior & Organization*
 
@@ -21,7 +22,7 @@ title: Research
 
 - "Unbundling the global commons" — *Under Review*
 
-- "Governing externalities with consent" (with Jamal Mamkhezri)
+- "Governing externalities with consent" (with Jamal Mamkhezri) — *Under Review*
 
 ---
 
