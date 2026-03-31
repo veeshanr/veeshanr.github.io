@@ -16,11 +16,11 @@ title: Research
 
 - "Consequences of Regicide" — *Revise & Resubmit, Journal of Development Studies*
 
+- "Unbundling the global commons" — *Revise & Resubmit, Kyklos*
+
 - "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Under Review*
 
 - "Gender gap in domestic labor in post-disaster contexts" (with R. March and M. Shawon) — *Under Review*
-
-- "Unbundling the global commons" — *Under Review*
 
 - "Governing externalities with consent" (with Jamal Mamkhezri) — *Under Review*
 
