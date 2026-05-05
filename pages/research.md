@@ -10,25 +10,25 @@ title: Research
 ## Selected Working Papers
 *Completed drafts available upon request*
 
-- "Democracy and pro-market sentiments" — *Revise & Resubmit, Journal of Economic Behavior & Organization*
-
 - "The sources of researcher variation in economics" (with N. Huntington-Klein et al.) — *Revise & Resubmit, Journal of Economic Literature*
 
 - "Consequences of Regicide" — *Revise & Resubmit, Journal of Development Studies*
 
 - "Unbundling the global commons" — *Revise & Resubmit, Kyklos*
 
-- "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Under Review*
-
-- "Gender gap in domestic labor in post-disaster contexts" (with R. March and M. Shawon) — *Under Review*
+- "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Revise & Resubmit, Journal of Regulatory Economics*
 
 - "Governing externalities with consent" (with Jamal Mamkhezri) — *Under Review*
+
+- "Tall fences make good neighbors" — *Working Paper*
 
 ---
 
 ## Published Research
 
-["The Anatomy of Externalities"][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2025.
+"Democracy and pro-market sentiments," *Journal of Economic Behavior & Organization*, forthcoming.
+
+["The Anatomy of Externalities"][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2026.
 
 ["Because I got high? Recreational marijuana legalization's impact on opioid overdose deaths"][27] (with Elisha Denkyirah, Raymond March, and Ryan Yonk), *Southern Economic Journal*, 2025.
 
