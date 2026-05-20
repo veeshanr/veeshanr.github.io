@@ -26,7 +26,7 @@ title: Research
 
 ## Published Research
 
-"Democracy and pro-market sentiments," *Journal of Economic Behavior & Organization*, forthcoming.
+["Democracy and pro-market sentiments"][29], *Journal of Economic Behavior & Organization*, 2026.
 
 ["The Anatomy of Externalities"][28] (with Pablo Paniagua), *Cambridge Journal of Economics*, 2026.
 
@@ -123,6 +123,7 @@ title: Research
 [26]: https://doi.org/10.1016/j.jebo.2025.107143
 [27]: https://doi.org/10.1002/soej.12797
 [28]: https://doi.org/10.1093/cje/beag003
+[29]: https://doi.org/10.1016/j.jebo.2026.107604
 [100]: https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis
 [101]: https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates
 [102]: https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/
