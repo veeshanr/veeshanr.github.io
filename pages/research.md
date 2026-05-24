@@ -18,7 +18,7 @@ title: Research
 
 - "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Revise & Resubmit, Journal of Regulatory Economics*
 
-- "Governing externalities with consent" (with Jamal Mamkhezri) — *Under Review*
+- "Governing externalities with consent" (with Jamal Mamkhezri) — *Revise & Resubmit, Public Choice*
 
 - "Tall fences make good neighbors" — *Working Paper*
 
