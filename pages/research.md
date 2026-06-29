@@ -14,17 +14,19 @@ title: Research
 
 - "Consequences of Regicide" — *Revise & Resubmit, Journal of Development Studies*
 
-- "Unbundling the global commons" — *Revise & Resubmit, Kyklos*
-
 - "Good Samaritan laws and drug crimes" (with R. March and E. Denkyirah) — *Revise & Resubmit, Journal of Regulatory Economics*
 
 - "Governing externalities with consent" (with Jamal Mamkhezri) — *Revise & Resubmit, Public Choice*
+
+- "The economic consequences of Mrs. Thatcher" (with Pablo Paniagua) — *Revise & Resubmit, Economica*
 
 - "Tall fences make good neighbors" — *Working Paper*
 
 ---
 
 ## Published Research
+
+"Unbundling the global commons", *Kyklos*, forthcoming.
 
 ["Democracy and pro-market sentiments"][29], *Journal of Economic Behavior & Organization*, 2026.
 
