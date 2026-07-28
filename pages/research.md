@@ -10,7 +10,7 @@ title: Research
 ## Selected Working Papers
 *Completed drafts available upon request*
 
-- "The sources of researcher variation in economics" (with N. Huntington-Klein et al.) — *Revise & Resubmit, Journal of Economic Literature*
+- "The sources of researcher variation in economics" (with N. Huntington-Klein et al.) — *Conditionally accepted, Journal of Economic Literature*
 
 - "Consequences of Regicide" — *Revise & Resubmit, Journal of Development Studies*
 
@@ -26,7 +26,7 @@ title: Research
 
 ## Published Research
 
-"Unbundling the global commons", *Kyklos*, forthcoming.
+["Unbundling the global commons"][30], *Kyklos*, 2026.
 
 ["Democracy and pro-market sentiments"][29], *Journal of Economic Behavior & Organization*, 2026.
 
@@ -126,6 +126,7 @@ title: Research
 [27]: https://doi.org/10.1002/soej.12797
 [28]: https://doi.org/10.1093/cje/beag003
 [29]: https://doi.org/10.1016/j.jebo.2026.107604
+[30]: https://doi.org/10.1111/kykl.70075
 [100]: https://www.webmd.com/mental-health/addiction/news/20221013/could-pot-prevent-pot-belly-research-cannabis
 [101]: https://www.leafly.com/news/health/cloudy-with-a-chance-of-munchies-study-ties-legal-cannabis-to-lower-obesity-rates
 [102]: https://www.marijuanamoment.net/despite-the-munchies-marijuana-legalization-is-tied-to-lower-obesity-rates-stereotype-busting-study-finds/
