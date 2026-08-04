@@ -1,0 +1,712 @@
+% !TEX program = pdflatex
+% Geoff Boeing - Curriculum Vitae
+% Email: boeing@usc.edu
+% Web: https://geoffboeing.com/
+% Repo: https://github.com/gboeing/cv
+
+\documentclass[12pt,letterpaper]{report}
+
+\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) so accented characters are a single glyph
+\usepackage[utf8]{inputenc} % allow input of utf-8 encoded characters
+\usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
+\usepackage[USenglish]{babel} % automatically regionalize hyphens, quote marks, etc
+\usepackage{microtype} % improves text appearance with kerning, etc
+\usepackage{datetime} % enable formatting of date output
+\usepackage{tabto} % make nice tabbing
+\usepackage{xcolor} % custom colors
+\usepackage{hyperref} % enable hyperlinks and pdf metadata
+\usepackage{geometry} % manually set page margins
+\usepackage{enumitem} % enumerate with [resume] option
+\usepackage{titlesec} % allow custom section fonts
+\usepackage{setspace} % custom line spacing
+\usepackage{fancyhdr} % custom headers/footers
+\usepackage{lastpage} % page X of Y
+\usepackage{etaremune}  % to reverse enumerate
+\usepackage{fontawesome} % to use external link symbol
+\usepackage{marvosym} % to use email symbol
+
+
+% what is your name?
+\newcommand{\myname}{Veeshan Rayamajhee}
+
+% define a default font face and set it as the body font
+\usepackage{crimson} % document's serif font
+\usepackage{helvet}  % document's sans serif font
+
+% define how far to tab for list items with left-aligned date - different font faces need different widths
+\newcommand{\listtabwidth}{1.6cm}
+
+% set name font to title the document
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+
+% set section heading fonts and before/after spacing
+\SetTracking{encoding=T1, family=\sfdefault}{50}
+\titleformat{\section}{\sffamily\small\bfseries\lsstyle\uppercase}{}{}{}[\vspace{2pt}\sectionrule]
+\titlespacing{\section}{0pt}{10pt plus 4pt minus 2pt}{5pt plus 0pt minus 0pt} %orig 20 and 8
+
+% set subsection heading fonts and before/after spacing
+\titleformat{\subsection}{\sffamily\footnotesize\bfseries}{}{}{}{}
+\titlespacing{\subsection}{0pt}{5pt plus 4pt minus 2pt}{5pt plus 2pt minus 2pt} %orig 12 and 8pt
+
+% set page margins
+\geometry{body={6.5in, 9.0in},
+    left=1in,
+    top=0.9in, bottom=0.9in,
+    includehead, headheight=14pt}
+
+% prevent paragraph indentation
+\setlength\parindent{0em}
+
+% set line spacing
+%\setstretch{0.9}
+\setstretch{1}
+
+% define space between list items
+\newcommand{\listitemspace}{0.15em} %originally 0.25
+
+% make unordered lists without bullets and use compact spacing
+\renewenvironment{itemize}
+{\begin{list}{}{\setlength{\leftmargin}{0em}
+            \setlength{\parskip}{0em}
+            \setlength{\itemsep}{\listitemspace}
+            \setlength{\parsep}{\listitemspace}}}
+{\end{list}}
+
+% make tabbed lists so content is left-aligned next to years
+\TabPositions{\listtabwidth}
+\newlist{tablist}{description}{3}
+\setlist[tablist]{leftmargin=\listtabwidth,
+    labelindent=0em,
+    topsep=0em,
+    partopsep=0em,
+    itemsep=\listitemspace,
+    parsep=\listitemspace,
+    font=\normalfont}
+
+% print the month and year only when using \today
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+% page numbers in top-right: "Page X of Y"
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\rhead{Page \thepage\ of \pageref{LastPage}}
+
+% define hyperlink appearance and metadata for pdf properties
+\definecolor{darkblue}{rgb}{0,0,0.5}
+\definecolor{rulegray}{gray}{0.6}
+\newcommand{\sectionrule}{\color{rulegray}\rule{\textwidth}{0.4pt}}
+\hypersetup{
+    colorlinks  = true,
+    urlcolor    = darkblue,
+    pdfauthor   = {\myname},
+    pdfkeywords = {disasters, institutions, social capital, institutional economics, environment},
+    pdftitle    = {\myname: Curriculum Vitae},
+    pdfsubject  = {Curriculum Vitae},
+    pdfpagemode = UseNone
+}
+
+\begin{document}
+    \raggedright
+    \thispagestyle{empty}
+
+    % display name as the document title
+    \namefont{\myname}
+
+    % contact info
+    \vspace{1em}
+    \begin{minipage}[t]{0.63\textwidth}
+        Department of Economics, Applied Statistics, \\
+        \& International Business \\
+        New Mexico State University \\
+        Las Cruces, NM
+    \end{minipage}
+    \begin{minipage}[t]{0.36\textwidth}
+        \Email \hspace{5pt}\href{mailto:veeshan@nmsu.edu}{veeshan@nmsu.edu} \\
+        \Mundus \hspace{3pt} \href{https://veeshan.rayamajhee.com/}{veeshan.rayamajhee.com} \\
+        \Telefon \hspace{5pt} (575) 646-3894 \\
+        Office: Business Complex 317
+    \end{minipage}
+    \vspace{0em} %orginall 0.5em
+
+\vspace{15pt}
+    \section*{Academic Appointments}
+    \begin{tablist}
+
+         \item[2024--\textit{present}] \tab Assistant Professor of Economics, New Mexico State University
+         \item[2019-2024] \tab Assistant Professor of Economics, North Dakota State University
+         %\\ Department of Agribusiness and Applied Economics
+         %\item[2019--]     \tab  Faculty Fellow, Center for the Study of Public Choice and Private Enterprise, North Dakota State University
+         %\item[2021--]     \tab  Faculty Scholar, Sheila and Robert Challey Institute for Global Innovation and Growth, North Dakota State University
+   % \end{tablist}
+
+    \end{tablist}
+
+
+        \section*{Faculty Affiliations}
+    \begin{tablist}
+         %\item [2024--\textit{present}] \tab  Replication Fellow, Institute for Replication
+         \item[2021-2024] \tab  Scholar, Challey Institute for Global Innovation and Growth, NDSU %\\ \tab North Dakota State University
+         \item[2019-2024]  \tab Fellow, Center for the Study of Public Choice and Private Enterprise, NDSU
+         %\\ \tab North Dakota State University
+
+    \end{tablist}
+
+
+       \section*{Education}
+
+    \begin{tablist}
+
+        \item[2014-2019] \tab Ph.D., Economics (distinction), University of New Mexico
+        \item[2014-2016]  \tab M.A., Economics, University of New Mexico
+        \item[2010-2014]  \tab B.A., Interdisciplinary Studies in Mathematics \& Business Management, \\ \tab Bryn Athyn College
+         \item[2010-2013]  \tab A.A., Philosophy (distinction), Bryn Athyn College
+         \item[2011\hphantom{-2014}] \tab Additional coursework in Democratic Governance and Civic Engagement, \\ \tab University of Osnabr\"{u}ck, Germany
+
+    \end{tablist}
+
+
+    %\section*{Areas of Interest}
+  % Natural hazards, Opioid crisis, Obesity, Immigration, Social Institutions, Environmental externalities
+
+  % \section*{Fields of Interest}
+%Applied Microeconomics, Political Economy, Development Economics, Environmental Economics, Health Economics
+ %\underline{Citations}: 336; h-index: 12; i10-index: 13 (Source: \href{https://scholar.google.com/citations?user=EU1Z--4AAAAJ&hl=en&oi=ao}{Google Scholar \faExternalLink})
+
+    %Crises; Disasters; Institutions
+
+%\begin{itemize}
+% \item Disasters; Climate adaptation; Crises; Externalities; Institutions; Institutional Change; Public Choice
+		%\item \textbf{Fields} \tab Environmental Economics; Institutional Economics; Sustainability; Public Economics
+      % \item \textbf{Topics} \tab Disasters; Climate adaptation; Crises; Externalities; Institutions; Institutional Change; Public Choice
+%\end{itemize}
+
+
+ % \section*{Editorial Activities}
+
+  %  \begin{tablist}
+    	%\setlength\itemsep{2pt}
+		% \item [2022-23] \tab Guest co-editor, \textit{Public Choice}
+    	%	\item [2022-23] \tab Guest co-editor, \textit{Sustainability}
+    		% \item [] Guest Co-editor (with Ilia Murtazashvili and Pablo Paniagua), \textit{Public Choice}, Special Issue on ``Governing Complex Externalities,'' (Expected 2023)
+    		%\item [] Guest Co-editor (with Ryan Yonk),  \textit{Sustainability}, Special Issue  on ``The Future of Nature: Alternative Approaches to Sustainable Development,'' (Expected 2023)
+
+  %  \end{tablist}
+
+    \section*{Publications}
+    \subsection*{Publications in Peer-Reviewed Journals {\scriptsize( graduate student co-author \underline{underlined})}}
+
+    %\\ {\scriptsize Total articles=19; A*=1; A=3; B=7 (ABDC Journal Quality List); Citations: 302; h-index: 11; i10-index: 12 }}
+
+\begin{etaremune} [leftmargin=15 pt, start=30, itemsep=3pt] %[topsep=0pt,itemsep=0pt,partopsep=0pt,parsep=0pt]
+%\begin{itemize}
+
+   % \begin{tablist}
+
+\item Huntington-Klein, N. et al. (2026). The sources of researcher variation in economics (145+ co-authors). \href{https://dx.doi.org/10.2139/ssrn.5152665}{\textit{\textbf{Journal of Economic Literature}}}, forthcoming.
+
+\item Rayamajhee, V. (2026). Unbundling the global commons. \href{https://doi.org/10.1111/kykl.70075}{\textit{\textbf{Kyklos}}}, published online.
+
+\item Rayamajhee, V. (2026). Democracy and pro-market sentiments. \href{https://doi.org/10.1016/j.jebo.2026.107604}{\textit{\textbf{Journal of Economic Behavior \& Organization}}, 107604.}
+
+\item Rayamajhee, V. \& Paniagua, P. (2026). The Anatomy of Externalities. \href{https://doi.org/10.1093/cje/beag003}{\textit{ \textbf{Cambridge Journal of Economics}}, \textit{50}(2), 259--281.}
+
+\item \underline{Denkyirah, E.}, March, R., Rayamajhee, V., \& Yonk, R. (2025). Because I got high? Recreational marijuana legalization's impact on opioid overdose deaths.
+\href{https://doi.org/10.1002/soej.12797} {\textit{\textbf{Southern Economic Journal}}, 1--12.} \\
+
+\item Rayamajhee, V. \& March, R. (2025). Does economic liberalization increase government accountability?   \href{https://doi.org/10.1016/j.jebo.2025.107143} {\textit{\textbf{Journal of Economic Behavior \& Organization}}, \textit{237}, 107143.}
+
+\item Yonk, R., Bakula, R., March, R., \& Rayamajhee, V. (2025). Max-U? Considering humanomics in public policy. \href{https://doi.org/10.1007/s11127-024-01218-5}
+{\textit{\textbf{Public Choice}}, \textit{202}, 483-493.}
+
+\item \underline{Denkyirah, EK}, March, R., Furton, G., Rayamajhee, V., \& Yonk, R. (2025). Recreational marijuana legalization's impact on opioid death rates: A synthetic control approach.
+\href{https://doi.org/10.1016/j.puhe.2024.12.047}
+{\textit{\textbf{Public Health}}, \textit{239}, 201-206.}
+
+\item Rayamajhee, V. \& Paudel, J. (2024). The social behavior of immigrants during natural disasters: Lessons from the United States.
+\href{https://doi.org/10.1016/j.jce.2024.06.005} {\textit{\textbf{Journal of Comparative Economics}}, \textit{52} (3), 614-633.}
+
+
+\item Paniagua, P., Rayamajhee, V., \& Murtazashvili, I. (2024). Complex externalities: Introduction to the special issue. \href{https://doi.org/10.1007/s11127-024-01176-y}
+{\textit{\textbf{Public Choice}}, \textit{201}(3-4), 377–385.}
+
+\item Paniagua, P. \& Rayamajhee, V. (2024). Governing the global fisheries commons. \href{https://doi.org/10.1016/j.marpol.2024.106182}
+{\textit{\textbf{Marine Policy}}, \textit{165}, 1-10.}
+
+\item Rayamajhee, V., March, R., \& \underline{Clark, C.} (2024). Shock me like a hurricane: How Hurricane Katrina changed Louisiana’s formal and informal institutions.
+\href{https://doi.org/10.1017/S1744137423000267}
+{\textit{\textbf{Journal of Institutional Economics}}, \textit{20}(e2), 1-20.}
+
+\item Paniagua, P. \& Rayamajhee, V. (2024).  On the nature and structure of externalities.
+\href{https://doi.org/10.1007/s11127-023-01098-1}
+{\textit{\textbf{Public Choice}}, \textit{201}(3-4), 387–408.}
+
+
+\item Guo, W., Rayamajhee, V., \& Bohara, A.K. (2023). Impacts of climate change on food utilization in Nepal.
+\href{https://doi.org/10.1111/rode.12953}
+{\textit{\textbf{Review of Development Economics}}, \textit{27} (1), 630-659.
+}
+
+\item Murtazashvili, I., Rayamajhee, V., Taylor, K. (2023). The tragedy of the nurdles: Governing global externalities.
+\href{https://doi.org/10.3390/su15097031}
+{\textit{\textbf{Sustainability}}, \textit{15}(9), 7031.
+}
+
+\item March, R.,  Rayamajhee, V., \& Furton, G.   (2022). Cloudy with a chance of munchies: Assessing the impact of recreational marijuana legalization on obesity.
+\href{https://doi.org/10.1002/hec.4598}
+{\textit{\textbf{Health Economics}}, \textit{31} (12), 2609-2629.
+}
+
+\item  Rayamajhee, V. \&, Paniagua, P. (2022). Coproduction and the crafting of cognitive institutions during the COVID-19 pandemic.
+\href{https://doi.org/10.1017/S1744137422000078}
+{\textit{\textbf{Journal of Institutional Economics}},\textit{18}(6), 961-967.
+}
+
+\item Paniagua, P. \& Rayamajhee, V. (2022).  A polycentric approach for pandemic governance: Nested externalities and co-production challenges.
+\href{https://doi.org/10.1017/S1744137421000795}
+{\textit{\textbf{Journal of Institutional Economics}},\textit{18}(4), 537-552.
+}
+
+\item Rayamajhee, V., Storr, V.H., \& Bohara, A.K.  (2022). Social entrepreneurship, co-production and post-disaster recovery.
+\href{https://doi.org/10.1111/disa.12454}
+{\textit{\textbf{Disasters}}, \textit{46}(1), 27-55.}\underline{Top cited article of the year 2022}
+
+\item Shahid, M.A., Rayamajhee, V., \& Bohara, A.K. (2022). Does social capital help in post-disaster recovery? Evidence from the Gorkha earthquake of Nepal. \href{https://doi.org/10.1016/j.ijdrr.2022.103359}
+{\textit{\textbf{International Journal of Disaster Risk Reduction}}, \textit{82}(1), 1-14.
+}
+
+\item Rayamajhee, V., Guo, W., \& Bohara, A.K. (2022). Perception of climate change and the demand for weather-Index microinsurance: Evidence from a contingent valuation survey in Nepal.
+\href{https://doi.org/10.1080/17565529.2021.1949574}
+{\textit{\textbf{Climate and Development}}, \textit{14} (6), 557-570.
+}
+
+\item Rayamajhee, V., \& Paniagua, P. (2021).  The Ostroms and the contestable nature of goods: Beyond taxonomies and towards institutional polycentricity.  \href{https://doi.org/10.1017/S1744137420000338}
+{\textit{\textbf{Journal of Institutional Economics}}, \textit{17} (1), 71-89.} \\
+ \tab \underline{Finalist for the 2022 Elinor Ostrom Prize} (awarded to the best full-length article \\\tab published in the  Journal of Institutional Economics in the preceding year).
+
+\item  Rayamajhee, V., Guo, W., \& Bohara, A.K. (2021). The impact of climate change on rice production in Nepal.
+\href{https://doi.org/10.1007/s41885-020-00079-8}
+{\textit{\textbf{Economics of Disasters and Climate Change}}, \textit{5}(1), 111-134.
+}
+
+\item Rayamajhee, V., \& Bohara, A.K. (2021). Social capital, trust, and collective action in post-earthquake Nepal.
+\href{https://doi.org/10.1007/s11069-020-04363-4}
+{\textit{\textbf{Natural Hazards}}, \textit{105}, 1491-1519.
+}
+
+\item Rayamajhee, V., Shrestha, S., \& Paniagua, P. (2021). Governing nested externalities during a pandemic: Social distancing as a co-production problem.
+\href{https://cosmosandtaxis.files.wordpress.com/2021/05/rayamajhee_et_al_ct_vol9_iss_5_6.pdf}
+{\textit{\textbf{Cosmos+Taxis}}, \textit{9}(5+6), 64-80.
+}
+
+\item  Rayamajhee, V., Bohara, A.K., \& Storr, V.H. (2020). Ex-post coping responses and post-disaster resilience: A case from the 2015 Nepal earthquake.
+\href{https://doi.org/10.1007/s41885-020-00064-1}
+{\textit{\textbf{Economics of Disasters and Climate Change}}, \textit{4}(3), 575 - 599.
+}
+
+\item van der Goes, D., Edwardson, N., Rayamajhee, V., Hollis,C.,\& Hunter, D. (2019).  An Iron Triangle ROI Model for Healthcare.
+\href{https://doi.org/10.2147/CEOR.S130623}
+{\textit{\textbf{ClinicoEconomics and Outcomes Research}},\textit{11,} 335-348.
+}
+
+\item Rayamajhee, V., \& Bohara, A.K. (2019). Natural disaster damages and their link to coping strategy choices: Field survey findings from post-earthquake Nepal.
+\href{https://doi.org/10.1002/jid.3406}
+{\textit{\textbf{Journal of International Development}}\textit{, 31}(4), 336-343.
+}
+
+\item Rayamajhee, V., \& Bohara, A.K. (2019). Do voluntary associations reduce hunger? An empirical exploration of the social capital - food security nexus among food impoverished households in western Nepal.
+\href{https://doi.org/10.1007/s12571-019-00907-0}
+{\textit{\textbf{Food Security}}, \textit{11}(2), 405-415.
+}
+
+\item Rayamajhee, V., \& Joshi, A. (2018). Economic trade-offs between hydroelectricity production and environmental externalities: A case for local externality mitigation fund.
+\href{https://doi.org/10.1016/j.renene.2018.06.009}
+{\textit{\textbf{Renewable Energy}}, \textit{129,} 237-244.
+}
+
+%\item [ ] \textbf{B. Articles in Interdisciplinary (Social Science) Journals}
+%\item [ ] \textbf{C. Articles in Science Journals}
+
+
+    %\end{tablist}
+\end{etaremune}
+%\end{itemize}
+
+    \subsection*{Book Chapters}
+
+   % \begin{tablist}
+	\begin{etaremune} [leftmargin=15 pt, start=1]
+
+	\item  Rayamajhee, V. (2020). On the dynamic nature of goods: Applications in post-disaster contexts. In  P.  Boettke, R. Herzberg, B. Kogelmann  (Eds.), \href{https://www.researchgate.net/publication/345889991_On_the_Dynamic_Nature_of_Goods_Applications_in_Post-disaster_Contexts}
+    {\textit{Exploring The Political Economy and Social Philosophy of Vincent and Elinor Ostrom} (pp. 3-30), London: Rowman \& Littlefield.
+            }
+
+    %\item Rayamajhee, V. and i4R team (2020). Media bias in China --- A reproducibility and replicability assessment of Qin, Str\"{o}mberg, and Wu (2018) (No. 108). I4R Discussion Paper Series.
+
+	\end{etaremune}
+
+    \subsection*{Policy Reports}
+
+    \begin{etaremune}
+    \item Rayamajhee, V., Murtazashvili, J., and Upadhyaya, A. (2022). The State of Federalism in Nepal: An assessment. Center for International Private Enterprise.
+    \href{https://www.cipe.org/wp-content/uploads/2022/11/THE-STATE-OF-FEDERALISM-IN-NEPAL_2022.pdf}
+    {LINK \faExternalLink}
+	\end{etaremune}
+
+
+ \subsection*{Research briefs and other articles (selected)}
+
+\begin{itemize}
+\item [] ``The Impact of Hurricane Katrina on Louisiana's Institutions,'' (with Raymond March) Robert and Sheila Challey Institute for Global Innovation and Growth at North Dakota State University, 2023.  \href{https://www.ndsu.edu/fileadmin/challeyinstitute/Research_Briefs/Research_Brief_Impact_of_Hurricane_Katrina_on_Louisiana_s_Institutions.pdf}
+{LINK \faExternalLink}
+\item [] ``Is Centralization Needed to End the Pandemic?," Polycentricity Network, 2021.
+\href{https://polycentricity.iasc-commons.org/is-centralization-needed-to-end-the-pandemic-an-essay-by-veeshan-raymajhee-ndsuusa/}
+{LINK \faExternalLink}
+\item [] ``Elinor Ostrom and the Contestable Nature of Goods," (with Pablo Paniagua) Center for the Study of Governance and Society at King's College London, 2020.
+\href{https://csgs.kcl.ac.uk/elinor-ostrom-and-the-contestable-nature-of-goods/} {LINK \faExternalLink}
+\item [] ``The limits and perils of the dichotomous private-public taxonomy," (with Pablo Paniagua) JoIE Blog: The official blog of the Journal of Institutional Economics, 2020.
+\href{https://joie-blog.net/the-limits-and-perils-of-the-dichotomous-private-public-taxonomy}
+{LINK \faExternalLink}
+\item [] ``The Logic of Collective Climate Action," Center for the Study of Public Choice and Private Enterprise, 2019. \href{https://ndsu-pcpe.medium.com/the-logic-of-collective-climate-action-24cfcfb6014}{LINK \faExternalLink}
+%\item [] ``Economics Lessons from Bald and Bankrupt," NDSU Extension and Ag Research News, 2020.
+%\href{https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-economics-lessons-from-bald-and-bankrupt}{LINK \faExternalLink}
+\end{itemize}
+
+   % \end{tablist}
+  %  \end{etaremune}
+
+  \subsection*{Working Papers (selected)}
+    %\subsection*{Manuscripts Under Review}
+
+\begin{itemize}
+
+%\item [] ``The Anatomy of Externalities'' (with P Paniagua) \textit {Conditionally accepted, Cambridge Journal of Economics}
+\item [] ``Consequences of Regicide'' \textit{R \& R, Journal of Development Studies}
+\item [] ``Good Samaritan laws and drug crimes'' (with Ray March and Elisha Denkyirah) \textit{R \& R, Journal of Regulatory Economics}
+\item [] ``Governing externalities with consent'' (with J Mamkhezri) \textit{R \& R, Public Choice}
+\item [] ``The economic consequences of Mrs. Thatcher'' (with P Paniagua) \textit{R \& R, Economica}
+\item [] ``Tall fences make good neighbors'' \textit{Working Paper}
+%\item [] ``Terrorist attack and volunteering'' (with S Ghosh) \textit{Working Paper}
+
+%\item Rayamajhee, V. and i4R team (2025). Media bias in China --- A reproducibility and replicability assessment of Qin, Str\"{o}mberg, and Wu (2018) (No. 108). I4R Discussion Paper Series.
+%\item [] Reproducibility and replicability in development economics: a meta-analysis. Institute for Replication (i4R).
+
+%Hard drive publications
+
+
+
+\end{itemize}
+
+	\section*{Teaching}
+
+\begin{itemize}
+
+\item [] \textbf{New Mexico State University}
+
+\item [ ] \underline{Undergraduate}
+\item [ ] Economic Development of Latin America (SP25, SP26); International Business and Economic Environments: Asia (SP25, SP26); Principles of Microeconomics (F24, F25x2)
+
+\item [ ] \underline{Graduate}
+\item [ ] Seminar in National Economic Development (F24)
+
+\item [] \textbf{North Dakota State University}
+
+\item [ ] \underline{Undergraduate}
+\item [ ] Public Economics (F22);
+ Market Values (SP23, SP24);
+ Principles of Macroeconomics (F19; SP20; F20, SP21, F21, SP22, F23);
+ Intermediate Microeconomics (SP20)
+
+\item [ ] \underline{Graduate}
+\item [ ] New Institutional Economics (F20, F21, F22);
+ Research Philosophy (F22, F23)
+
+\end{itemize}
+
+\begin{itemize}
+\item [] \textbf{Graduate Advisement}
+
+\item [] \textit{Doctoral Committee Chair/Co-chair at New Mexico State University}
+\item Sandra Amoh (D.E.D., EASIB; 2025-current);
+Akop Sogoyan (D.E.D., EASIB; 2026-current);
+
+\item [] \textit{Doctoral Committee Member at New Mexico State University}
+\item Shallan Awuye  (D.E.D., EASIB; 2025);
+
+\item [] \textit{Dissertation Committee Member, State University of New York at Albany}
+\item Shakya Ghosh  (Ph.D in Economics; 2025-2028);
+
+\item [] \textit{Thesis Committee Chair/Co-chair at North Dakota State University}
+\item Shakya Ghosh  (M.S., AAE; 2022-2024; placement: Economics PhD, SUNY-Albany);
+Mehadi Shawon  (M.S., AAE; 2022-2024; placement: Economics PhD, Kansas State University);
+Richard Feir (M.S., AAE; 2022-2024: placement: Research specialist, Challey Institute, NDSU);
+Corbin Clark (M.S., AAE; 2020-2022);
+
+\item [] \textit{Thesis/Dissertation Committee Member at North Dakota State University}
+\item [] Md Mahadi Hasan (M.S., AAE; 2023-2024);
+Zach Johnson (M.S., AAE; 2023-2024);
+Munkaila Lambongang (M.S., AAE; 2022);
+Dorcas Tseklu (M.S., AAE; 2021-2022);
+Mary Mena Boateng  (M.S., AAE; 2021-2022);
+ Soumaila Mounkaila Siddo (M.S., NRM; 2020-2021);
+ Elisha Denkyirah (M.S., AAE; 2020-2021)
+\item [] {\small AAE=Agribusiness and Applied Economics, NRM=Natural Resource Management}
+\end{itemize}
+%\item [] \textbf{Doctoral Advisement} \textit{( $^{\psi}$ denotes dissertation committee chair})
+%\item [] Yasin Yildirim (Ph.D., Applied Economics; 2023-current)
+
+
+%\item []Bing Poh$^{\psi}$ (MS, Agribusiness and Applied Economics; 2021-)
+
+%\item [] \textbf{Mancur Olson Scholars Reading Groups (led semester-long reading groups)}
+%\item [] ``Society vs. the Environment?'' (Fall 2020)
+%\item [] ``Why (Some) Nations Fail'' (Fall 2021)
+%\item [] ``How We Got Rich'' (Spring 2023)
+%\item [] ``Technology, Economy, and Freedom'' (Spring 2024)
+
+
+
+
+
+    \section*{Fellowships, Grants, and Awards}
+
+    \subsection*{Research Funding}
+
+   \begin{tablist}
+
+    \item [2026] \tab ``Resilient Societies Grant,'' Mercatus Center at George Mason University, PI, Amount: \$6000.
+    \item [2026] \tab ``Data Centers and Local Economic Development: Causal Evidence from the U.S.,'' Fulton Research Mini-Grant [PI: Veeshan Rayamajhee; Co-PI: Minghao Li], Amount: \$3000.
+
+    \item [2024-28] \tab USDA NIFA-AFRI Competitive Grants Program,``PARTNERSHIP: U.S. Soybean and Corn Supply Chain Resilience: Impacts of Extreme Droughts on Production, Shipping, Trade, and Global Food Security,'' [PI: Siew Hoon Lim; my role: Co-PI], Amount: \$800000.
+    %[with Siew HoonLim-PI, Raghav Goyal (LSU), Lynn Kennedy (LSU), Zhulu Lin, and Sandro Steinbach],
+
+    \item [2024] \tab ``Natural disasters and the substitutability between natural and man-made capital,'' Sheila and Robert Challey Institute for Global Innovation and Growth, PI, Amount: \$11690.
+
+    \item [2023] \tab ``Natural Disasters and the Divergence of Gender Norms,'' Sheila and Robert Challey Institute for Global Innovation and Growth, PI, Amount: \$10278.
+
+    \item [2021-22] \tab ``Supporting Nepal's Transition toward a Market Oriented Federal Democracy,'' Center for International Private Enterprise [PI: Jennifer Murtazashvili; my role: Investigator], Amount: \$83,384 (NDSU portion: \$30,000).
+
+    \item [2022] \tab ``Exploring Complementarities between Coase and the Ostroms on Externalities,'' Sheila and Robert Challey Institute for Global Innovation and Growth, PI, Amount: \$9978.
+
+   		\item [2021] \tab ``Nested externalities in a pandemic: A polycentric approach,'' Sheila and Robert Challey Institute for Global Innovation and Growth, PI, Amount: \$9440.
+   		\item [2019] \tab ``Polycentric climate governance: Understanding inter-institutional efforts for effective climate adaptation in North Dakota,'' NDSU EPSCoR Undergraduate Research Award (Internal Funding), PI, Amount: \$5000: 10/01/2019-05/31/2020.
+
+   \end{tablist}
+
+   %\subsection*{Pending Grant Proposals}
+   %\begin{tablist}
+
+  % \end{tablist}
+
+   \subsection*{Other Grants (selected)}
+
+   	\begin{tablist}
+
+\item [2018-19] \tab Research Support Grant, Center for Growth and Opportunity, Utah State University
+\item [2018] \tab Hayek Fund for Scholars, Institute for Humane Studies $(\times 3)$
+%\item [2018] \tab Mercatus Center Travel Fund
+%\item [2018] \tab Dissertation and Travel Grant, Charles Koch Foundation
+%\item [2017-18] \tab Professional Development Grant, GPSA, UNM $(\times 3)$
+%\item [2018] \tab Doctoral Conference Presentation Award, Office of Graduate Studies, UNM
+%\item [2017-18] \tab Rogers Research Award, OGS, UNM
+%\item [2017-18] \tab Student Research Grant, GPSA, UNM $(\times 3)$
+%\item [2016-17] \tab Graduate Research Supplement Award, Office of Graduate Studies, UNM
+%\item [2016-18] \tab Economics Graduate Students Organization Award, UNM $(\times 2)$
+\item [2011] \tab German: Deutscher Akademischer Austausch Dienst (DAAD) University Summer \\Course Grant to attend University of Osnabr\"{u}ck, Germany
+
+
+   	\end{tablist}
+
+
+    \subsection*{Fellowships}
+
+    \begin{tablist}
+    	%\item[2021--]   \tab Fellow, Public Choice and Public Policy Project, American Institute for Economic Research
+            \item[2024-25]   \tab James Buchanan Fellow, Mercatus Center at George Mason University
+                   \item[2021--]   \tab Public Choice and Public Policy Project Fellow, American Institute for Economic Research
+    	\item [2017-19] \tab Adam Smith Fellow, Mercatus Center at George Mason University $(\times 2)$
+    	\item [2018-19] \tab Humane Studies Fellow, Institute for Humane Studies at George Mason University
+
+    \end{tablist}
+
+\subsection*{Awards/Honors (selected)}
+
+	\begin{tablist}
+            \item [2025] \tab Patricia Christmore Faculty Teaching Award (university-level), New Mexico State University
+		\item [2023] \tab Reviewer of the Year Prize, \textit{Journal of Institutional Economics}
+            \item [2023] \tab Nominee, Peltier Award for Teaching Innovation, North Dakota State University
+	 	\item [2022] \tab Finalist,  Elinor Ostrom Prize, World Interdisciplinary Network for Institutional Research (WINIR)
+	 	\item [2022] \tab Nominee, Larson/Yaggie Excellence in Research Award, North Dakota State University
+		\item [2021] \tab Young Scholars Program, Association of Private Enterprise Education
+		\item [2018] \tab Don Lavoie Memorial Graduate Student Essay Award, Society for the Development of Austrian Economics
+		\item [2018-19] \tab Alfred L. Parker PhD Endowed Scholarship in Economics, Department of Economics, UNM
+		\item [2017-18] \tab J. Raymond Stuart Award in Economics, Department of Economics, UNM
+		\item [2013-14] \tab Son of the Academy Award for ``the highest level of scholarship, contribution to the intellectual life, and affirmation of the college's distinctive purpose'', BAC
+		\item [2014] \tab Received an invitation to be considered for the valedictorian selection ballot, BAC
+		\item [2013-14] \tab The Nobre Scholarship in Mathematics and Computer Science, BAC
+		\item [2013] \tab Finalist, Cumberland Valley Math Modeling Challenge (CVMMC), Shippensburg University
+		%\item [2012] \tab Service Trip Award, BAC
+		%\item [2010-13] \tab Dean's List (9 consecutive terms), BAC
+		\item [2010-14] \tab Presidential Award for Excellence: full ride scholarship, BAC
+
+
+
+
+	\end{tablist}
+
+
+    \section*{Selected Presentations, Invited Talks, and Workshops }
+
+  % $^{\varphi}$ denotes event canceled due to COVID-19.
+   %Presenting author \textit{italicized} if other than first author.\bigskip
+    % Asterisk* indicates paper published in \enquote{Peer-Reviewed Proceedings} above.
+
+    \begin{tablist}
+
+        \item [2026] \tab Public Choice Society (San Antonio, TX).
+
+        \item [2025] \tab Public Choice Society* (Louisville, KY); Mercatus Center at George Mason University* (Arlington, VA); Southern Economic Association (Tampa, Florida).
+
+        \item[2024] \tab Texas Tech University (Lubbock, TX); Mercatus Center at George Mason University (Arlington, VA); American Institute for Economic Research (Great Barrington, MA).
+
+        \item[2023] \tab University of Pittsburgh (Pittsburgh, PA); Center for International Private Enterprise (CIPE); AIER Humanomics Conference (Birmingham, AL); Institute for Humane Studies (08/09); Markets \&  Society (Falls Church, Virginia); Mercatus Center, George Mason University (Fairfax, VA).
+
+        \item[2022] \tab Ostrom Workshop, Indiana University; Association of Private Enterprise Education (Las Vegas, Nevada); Public Choice Society (Nashville, Tennessee); Center for International Private Enterprise (CIPE); World Interdisciplinary Network for Institutional Research- WINIR; Markets \&  Society (Falls Church, Virginia); Southern Economic Association (Fort Lauderdale, Florida).
+
+        \item[2021] \tab Southern Economic Association (Houston, Texas); Polycentricity Network Webinar Series; Association of Private Enterprise Education (Fort Lauderdale, Florida);
+
+        \item[2020] \tab New Mexico State University (virtual); Ganesh Man Singh Adhyayan Pratisthan (Nepal-virtual); Public Choice Society *, Association of Private Enterprise Education*, NDSU* (* denotes canceled due to COVID-19).
+
+      \item[2018] \tab Southern Economic Association (Washington DC); Himalayan Policy Research Conference (Wisconsin, Madison); Institute for Humane Studies/Pacific Research Institute (Vancouver, Canada); IHS-Liberty Fund (Arlington, Virginia); Mercatus Center at George Mason University; Sustainability and Development Conference, University of Michigan (Ann Arbor, Michigan); Santa Fe Institute (Santa Fe, New Mexico).
+
+
+    \end{tablist}
+
+
+    \section*{Service}
+
+      \subsection*{Editorial Activities}
+
+    \begin{tablist}
+    	\setlength\itemsep{2pt}
+		 \item [2022-2024] \tab Guest co-editor, \textit{Public Choice} \\
+   %Special Issue on ``Governing Complex Externalities,'' (with Ilia Murtazashvili and Pablo Paniagua)
+    		\item [2022-2023] \tab Guest co-editor, \textit{Sustainability} \\
+      %Special Issue  on ``The Future of Nature: Alternative Approaches to Sustainable Development,'' (with Ryan Yonk)
+    \end{tablist}
+
+    \subsection*{Reviewer for Academic Journals \normalfont (72 distinct papers across 41 journals)}
+    	\setlength\itemsep{-2pt}
+            \textit{Journal of Economic Behavior and Organization} [2021(1), 2022(1), 2025(1), 2026(2)];
+            \textit{Journal of Institutional Economics} [2021(1), 2022(1), 2023(3), 2024(6), 2025(3), 2026(2)];
+            \textit{Kyklos} [2026(1)];
+            \textit{Evolution and Human Behavior} [2026(1)];
+            \textit{Journal of Public Finance and Public Choice} [2026(1)];
+            \textit{Journal of Business Venturing} [2026(1)];
+            \textit{Journal of Economics, Race, and Policy} [2026(1)];
+            \textit{Economics Bulletin} [2026(1)];
+            \textit{Socio-Economic Review} [2025(1)];
+            \textit{Journal of Comparative Economics} [2025(1)];
+            \textit{Health Economics} [2025(1)];
+            \textit{World Development Perspectives} [2025(1)];
+            \textit{Humanities and Social Sciences Communications}[2025(1)];
+            \textit{Climate and Development}[2022(1), 2023(1), 2025(1)];
+            \textit{Public Administration Quarterly} [2025(1)];
+            \textit{Journal of Economics, Management and Religion} [2024(1)];
+            \textit{Climatic Change} [2024(1)];
+            \textit{Frontiers in Political Science} [2024(4)];
+            \textit{BMC Public Health}[2024(1)];
+            \textit{Public Choice} [2021(1), 2023(2)];
+            \textit{Journal of Regional Analysis \& Policy} [2023(1)];
+            \textit{International Journal of Disaster Risk Reduction} [2023(1)];
+            \textit{Computational Economics} [2022(1)];
+            \textit{Risk Management and Insurance Review} [2022(1)];
+            \textit{Economics of Disasters and Climate Change}[2022(1)];
+            \textit{Annals of Public and Cooperative Economics}[2022(1)];
+            \textit{Frontiers in Environmental Science}[2022(1)];
+            \textit{Natural Hazards Review}[2020(1), 2022(1)];
+            \textit{State and Local Government Review} [2021(1)];
+            \textit{Natural Hazards} [2021(1)];
+            \textit{Cosmos+Taxis} [2021(2)];
+            \textit{Journal of International Development} [2020(1)];
+            \textit{International Food and Agribusiness Management Review} [2020(1)];
+            \textit{Foods} [2020(1)];
+            \textit{International Journal of Environmental Research and Public Health}   [2020(1)];
+            \textit{Energies} [2020(1); 2021(1)];
+            \textit{Journal of Entrepreneurship and Public Policy} [2019(1)];
+            \textit{Sustainability} [2019(1), 2020(1)];
+            \textit{Studies in Comparative International Development} [2019(1)];
+            \textit{Food Security} [2019(1), 2020(1)];
+            \textit{Center for Growth and Opportunity Working Paper Series} [2019(1)]
+            %Reviewed 37 papers for 25 journals
+
+       \subsection*{Grant Reviewer}
+
+
+          \begin{itemize}
+     \item [] Center for Resiliency, Lamar University, Texas, 2026
+     \item [] Sapienza Università di Roma (Italy), 2022
+	\end{itemize}
+
+      \subsection*{External Reviewer for Tenure \& Promotion}
+           \begin{itemize}
+     \item [] Centenary College of Louisiana, 2025
+	\end{itemize}
+
+    \subsection*{Departmental/University/Professional Service}
+
+    \begin{itemize}
+        \item [] Ad Hoc Economics Enrollment Committee, NMSU-EASIB, 2025-\textit{current}
+        \item [] Faculty Search Committee (Assistant Professor of Economics), NMSU-EASIB, 2024-2025
+        \item [] Doctor of Economic Development Committee, NMSU-EASIB, 2024-\textit{current}
+        \item [] Undergraduate Academic Advisor (Economics and International Business), NMSU-EASIB, 2025-\textit{current}
+        \item [] EASIB Representative (ad hoc), Undergraduate Committee, College of Business, 2025-\textit{current}
+        %\item [] Undergraduate Assessment Committee, NMSU-EASIB, 2024-\textit{current}
+        \item []Assessment Committee, NDSU Department of  Agribusiness and Applied Economics (DAAE), 2023-2024
+        \item []Undergraduate Program Committee, NDSU DAAE, 2021-2023
+        \item [] Communications Coordinator Search Committee, NDSU Challey Institute, 2022-2023
+        \item [] Judge, Best Book Prize/ Best Article Prize/ Horwitz Award for Public Scholarship, Society for the Development of Austrian Economics, 2022
+        \item [] Faculty Search Committee (Assistant Professor of Economics), NDSU DAAE, 2020-2021
+        \item []Scholarship Committee, NDSU DAAE, 2019-2021
+        \item [] Faculty Advisor, NDSU Nepalese Students Association - Chautaree, 2020-2024
+
+	\end{itemize}
+
+ %\subsection*{Service to the Professional Community}
+
+   % \begin{itemize}
+		%	\item [] Member of the organizing committee, $15^{th}$ Annual Himalayan Policy Research Conference, 2020
+		%	\item [] Founding Member, Himalayan Applied Economics and Policy Association (HAEPA), 2020
+		%	\item [] Secretary, Himalayan Applied Economics and Policy Association (HAEPA), 2021-current
+		%	\item [] Member, HAEPA Governance Committee, 2021-current
+		%	\item [] Member, HAEPA Program Development Committee, 2021-current
+  %   \end{itemize}
+
+
+    \section*{Memberships in professional associations and organizations}
+
+    \begin{tablist}
+		\item [2018-\textit{present}] \tab American Economic Association
+		%\item [2018-20] \tab Western Economic Association International
+		\item [2018-2019] \tab Southern Economic Association
+		\item [2021-\textit{present}] \tab Public Choice Society
+		%\item [2020-\textit{present}] \tab Himalayan Applied Economics and Policy Association
+		%\item [2018] \tab Omricon Delta Epsilon Economics Honor Society
+		\item [2021-2023] \tab Association of Private Enterprise Education
+		\item [2022-\textit{present}] \tab World Interdisciplinary Network for Institutional Research
+		%\item [2021-] \tab External affiliate, Ostrom Workshop, Indiana University
+           \item [2021--\textit{present}]  \tab External Affiliate, Ostrom Workshop, Indiana University
+    \end{tablist}
+
+
+
+    % display today's date as Month Year after a vertical space below the end of the text
+    \begin{center}
+        %\vspace{6em}
+        \vfill
+        %Updated: \monthyeardate\today
+        Updated: July 2026
+    \end{center}
+
+
+\end{document}
