@@ -24,7 +24,7 @@ title: Research
 
 ## Published Research
 
-["The sources of researcher variation in economics"][31] (with N. Huntington-Klein et al.), *Journal of Economic Literature*, forthcoming.
+["The sources of researcher variation in economics"][31] (with N. Huntington-Klein, C. Portner, and other contributors), *Journal of Economic Literature*, forthcoming.
 
 ["Unbundling the global commons"][30], *Kyklos*, 2026.
 
