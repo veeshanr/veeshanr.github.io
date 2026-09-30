@@ -17,7 +17,7 @@ title: Teaching
 
 ## Previously Taught
 
-**New Mexico State University**
+### New Mexico State University
 
 **Economic Development of Latin America** (ECON 325v)
 
@@ -25,7 +25,7 @@ title: Teaching
 
 **Principles of Microeconomics** (ECON 2120G)
 
-**North Dakota State University**
+### North Dakota State University
 
 **Public Economics** (ECON 470) &nbsp; [Syllabus][econ470]
 
