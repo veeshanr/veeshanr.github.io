@@ -15,7 +15,7 @@ His current research examines how legal reforms, commons disruptions, and nation
 
 He has been a James Buchanan Fellow at the Mercatus Center (2024–2025), an Adam Smith Fellow at Mercatus (2017–2019), and a Public Choice and Public Policy Fellow at the American Institute for Economic Research. In 2025 he received the Patricia Christmore Faculty Teaching Award, NMSU's university-level teaching honor.
 
-He teaches courses on economic development, Asian economies, and Latin American economies.
+He teaches courses on business & government, institutions, and economic development.
 
 He lives in Las Cruces with his wife Stephanie and their son Boden. He hikes and bikes the mountains of Southern New Mexico when he can.
 
